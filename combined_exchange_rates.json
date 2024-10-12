@@ -1,0 +1,1802 @@
+[
+    {
+        "date": "2020-06-01",
+        "data": {
+            "success": true,
+            "timestamp": 1591055999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-01",
+            "rates": {
+                "CNY": 7.930088,
+                "JPY": 119.657268,
+                "USD": 1.112558
+            }
+        }
+    },
+    {
+        "date": "2020-06-02",
+        "data": {
+            "success": true,
+            "timestamp": 1591142399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-02",
+            "rates": {
+                "CNY": 7.944732,
+                "JPY": 121.73462,
+                "USD": 1.118756
+            }
+        }
+    },
+    {
+        "date": "2020-06-03",
+        "data": {
+            "success": true,
+            "timestamp": 1591228799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-03",
+            "rates": {
+                "CNY": 7.99428,
+                "JPY": 122.458907,
+                "USD": 1.123471
+            }
+        }
+    },
+    {
+        "date": "2020-06-04",
+        "data": {
+            "success": true,
+            "timestamp": 1591315199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-04",
+            "rates": {
+                "CNY": 8.060636,
+                "JPY": 123.739812,
+                "USD": 1.133657
+            }
+        }
+    },
+    {
+        "date": "2020-06-05",
+        "data": {
+            "success": true,
+            "timestamp": 1591401599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-05",
+            "rates": {
+                "CNY": 7.996297,
+                "JPY": 123.712735,
+                "USD": 1.129095
+            }
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "data": {
+            "success": true,
+            "timestamp": 1591487999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-06",
+            "rates": {
+                "CNY": 7.996686,
+                "JPY": 123.718756,
+                "USD": 1.12915
+            }
+        }
+    },
+    {
+        "date": "2020-06-07",
+        "data": {
+            "success": true,
+            "timestamp": 1591574399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-07",
+            "rates": {
+                "CNY": 8.016265,
+                "JPY": 124.102521,
+                "USD": 1.13192
+            }
+        }
+    },
+    {
+        "date": "2020-06-08",
+        "data": {
+            "success": true,
+            "timestamp": 1591660799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-08",
+            "rates": {
+                "CNY": 7.994281,
+                "JPY": 122.563017,
+                "USD": 1.130525
+            }
+        }
+    },
+    {
+        "date": "2020-06-09",
+        "data": {
+            "success": true,
+            "timestamp": 1591747199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-09",
+            "rates": {
+                "CNY": 8.019919,
+                "JPY": 122.16009,
+                "USD": 1.133189
+            }
+        }
+    },
+    {
+        "date": "2020-06-10",
+        "data": {
+            "success": true,
+            "timestamp": 1591833599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-10",
+            "rates": {
+                "CNY": 8.024904,
+                "JPY": 121.585778,
+                "USD": 1.136512
+            }
+        }
+    },
+    {
+        "date": "2020-06-11",
+        "data": {
+            "success": true,
+            "timestamp": 1591919999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-11",
+            "rates": {
+                "CNY": 7.974918,
+                "JPY": 120.560663,
+                "USD": 1.128776
+            }
+        }
+    },
+    {
+        "date": "2020-06-12",
+        "data": {
+            "success": true,
+            "timestamp": 1592006399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-12",
+            "rates": {
+                "CNY": 7.973894,
+                "JPY": 120.860708,
+                "USD": 1.125715
+            }
+        }
+    },
+    {
+        "date": "2020-06-13",
+        "data": {
+            "success": true,
+            "timestamp": 1592092799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-13",
+            "rates": {
+                "CNY": 7.972655,
+                "JPY": 120.841922,
+                "USD": 1.12554
+            }
+        }
+    },
+    {
+        "date": "2020-06-14",
+        "data": {
+            "success": true,
+            "timestamp": 1592179199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-14",
+            "rates": {
+                "CNY": 7.969934,
+                "JPY": 120.747894,
+                "USD": 1.125157
+            }
+        }
+    },
+    {
+        "date": "2020-06-15",
+        "data": {
+            "success": true,
+            "timestamp": 1592265599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-15",
+            "rates": {
+                "CNY": 8.040273,
+                "JPY": 121.842118,
+                "USD": 1.133742
+            }
+        }
+    },
+    {
+        "date": "2020-06-16",
+        "data": {
+            "success": true,
+            "timestamp": 1592351999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-16",
+            "rates": {
+                "CNY": 7.983737,
+                "JPY": 121.003126,
+                "USD": 1.126532
+            }
+        }
+    },
+    {
+        "date": "2020-06-17",
+        "data": {
+            "success": true,
+            "timestamp": 1592438399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-17",
+            "rates": {
+                "CNY": 7.965893,
+                "JPY": 120.176968,
+                "USD": 1.124252
+            }
+        }
+    },
+    {
+        "date": "2020-06-18",
+        "data": {
+            "success": true,
+            "timestamp": 1592524799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-18",
+            "rates": {
+                "CNY": 7.946866,
+                "JPY": 119.95178,
+                "USD": 1.12095
+            }
+        }
+    },
+    {
+        "date": "2020-06-19",
+        "data": {
+            "success": true,
+            "timestamp": 1592611199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-19",
+            "rates": {
+                "CNY": 7.906482,
+                "JPY": 119.475745,
+                "USD": 1.11795
+            }
+        }
+    },
+    {
+        "date": "2020-06-20",
+        "data": {
+            "success": true,
+            "timestamp": 1592697599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-20",
+            "rates": {
+                "CNY": 7.904962,
+                "JPY": 119.452776,
+                "USD": 1.117735
+            }
+        }
+    },
+    {
+        "date": "2020-06-21",
+        "data": {
+            "success": true,
+            "timestamp": 1592783999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-21",
+            "rates": {
+                "CNY": 7.904841,
+                "JPY": 119.410888,
+                "USD": 1.117718
+            }
+        }
+    },
+    {
+        "date": "2020-06-22",
+        "data": {
+            "success": true,
+            "timestamp": 1592870399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-22",
+            "rates": {
+                "CNY": 7.97266,
+                "JPY": 120.580148,
+                "USD": 1.12793
+            }
+        }
+    },
+    {
+        "date": "2020-06-23",
+        "data": {
+            "success": true,
+            "timestamp": 1592956799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-23",
+            "rates": {
+                "CNY": 7.984479,
+                "JPY": 120.400107,
+                "USD": 1.131203
+            }
+        }
+    },
+    {
+        "date": "2020-06-24",
+        "data": {
+            "success": true,
+            "timestamp": 1593043199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-24",
+            "rates": {
+                "CNY": 7.963325,
+                "JPY": 120.430868,
+                "USD": 1.125049
+            }
+        }
+    },
+    {
+        "date": "2020-06-25",
+        "data": {
+            "success": true,
+            "timestamp": 1593129599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-25",
+            "rates": {
+                "CNY": 7.942348,
+                "JPY": 120.242974,
+                "USD": 1.122086
+            }
+        }
+    },
+    {
+        "date": "2020-06-26",
+        "data": {
+            "success": true,
+            "timestamp": 1593215999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-26",
+            "rates": {
+                "CNY": 7.940943,
+                "JPY": 120.24085,
+                "USD": 1.121855
+            }
+        }
+    },
+    {
+        "date": "2020-06-27",
+        "data": {
+            "success": true,
+            "timestamp": 1593302399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-27",
+            "rates": {
+                "CNY": 7.940589,
+                "JPY": 120.235495,
+                "USD": 1.121805
+            }
+        }
+    },
+    {
+        "date": "2020-06-28",
+        "data": {
+            "success": true,
+            "timestamp": 1593388799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-28",
+            "rates": {
+                "CNY": 7.945017,
+                "JPY": 120.352663,
+                "USD": 1.122462
+            }
+        }
+    },
+    {
+        "date": "2020-06-29",
+        "data": {
+            "success": true,
+            "timestamp": 1593475199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-29",
+            "rates": {
+                "CNY": 7.963994,
+                "JPY": 121.005742,
+                "USD": 1.124683
+            }
+        }
+    },
+    {
+        "date": "2020-06-30",
+        "data": {
+            "success": true,
+            "timestamp": 1593561599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2020-06-30",
+            "rates": {
+                "CNY": 7.93789,
+                "JPY": 121.326582,
+                "USD": 1.123472
+            }
+        }
+    },
+    {
+        "date": "2021-06-01",
+        "data": {
+            "success": true,
+            "timestamp": 1622591999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-01",
+            "rates": {
+                "CNY": 7.796876,
+                "JPY": 133.76377,
+                "USD": 1.221755
+            }
+        }
+    },
+    {
+        "date": "2021-06-02",
+        "data": {
+            "success": true,
+            "timestamp": 1622678399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-02",
+            "rates": {
+                "CNY": 7.791648,
+                "JPY": 133.819805,
+                "USD": 1.22105
+            }
+        }
+    },
+    {
+        "date": "2021-06-03",
+        "data": {
+            "success": true,
+            "timestamp": 1622764799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-03",
+            "rates": {
+                "CNY": 7.768768,
+                "JPY": 133.783767,
+                "USD": 1.21315
+            }
+        }
+    },
+    {
+        "date": "2021-06-04",
+        "data": {
+            "success": true,
+            "timestamp": 1622851199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-04",
+            "rates": {
+                "CNY": 7.781211,
+                "JPY": 133.29659,
+                "USD": 1.216726
+            }
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "data": {
+            "success": true,
+            "timestamp": 1622937599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-05",
+            "rates": {
+                "CNY": 7.780757,
+                "JPY": 133.288818,
+                "USD": 1.216655
+            }
+        }
+    },
+    {
+        "date": "2021-06-06",
+        "data": {
+            "success": true,
+            "timestamp": 1623023999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-06",
+            "rates": {
+                "CNY": 7.781546,
+                "JPY": 133.370854,
+                "USD": 1.21676
+            }
+        }
+    },
+    {
+        "date": "2021-06-07",
+        "data": {
+            "success": true,
+            "timestamp": 1623110399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-07",
+            "rates": {
+                "CNY": 7.798904,
+                "JPY": 133.21428,
+                "USD": 1.219074
+            }
+        }
+    },
+    {
+        "date": "2021-06-08",
+        "data": {
+            "success": true,
+            "timestamp": 1623196799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-08",
+            "rates": {
+                "CNY": 7.791563,
+                "JPY": 133.255221,
+                "USD": 1.217337
+            }
+        }
+    },
+    {
+        "date": "2021-06-09",
+        "data": {
+            "success": true,
+            "timestamp": 1623283199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-09",
+            "rates": {
+                "CNY": 7.778267,
+                "JPY": 133.482875,
+                "USD": 1.217732
+            }
+        }
+    },
+    {
+        "date": "2021-06-10",
+        "data": {
+            "success": true,
+            "timestamp": 1623369599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-10",
+            "rates": {
+                "CNY": 7.782044,
+                "JPY": 133.175682,
+                "USD": 1.217219
+            }
+        }
+    },
+    {
+        "date": "2021-06-11",
+        "data": {
+            "success": true,
+            "timestamp": 1623455999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-11",
+            "rates": {
+                "CNY": 7.747871,
+                "JPY": 132.787913,
+                "USD": 1.21085
+            }
+        }
+    },
+    {
+        "date": "2021-06-12",
+        "data": {
+            "success": true,
+            "timestamp": 1623542399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-12",
+            "rates": {
+                "CNY": 7.748159,
+                "JPY": 132.792848,
+                "USD": 1.210895
+            }
+        }
+    },
+    {
+        "date": "2021-06-13",
+        "data": {
+            "success": true,
+            "timestamp": 1623628799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-13",
+            "rates": {
+                "CNY": 7.748719,
+                "JPY": 132.867932,
+                "USD": 1.210984
+            }
+        }
+    },
+    {
+        "date": "2021-06-14",
+        "data": {
+            "success": true,
+            "timestamp": 1623715199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-14",
+            "rates": {
+                "CNY": 7.756933,
+                "JPY": 133.388227,
+                "USD": 1.212267
+            }
+        }
+    },
+    {
+        "date": "2021-06-15",
+        "data": {
+            "success": true,
+            "timestamp": 1623801599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-15",
+            "rates": {
+                "CNY": 7.767691,
+                "JPY": 133.483492,
+                "USD": 1.212561
+            }
+        }
+    },
+    {
+        "date": "2021-06-16",
+        "data": {
+            "success": true,
+            "timestamp": 1623887999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-16",
+            "rates": {
+                "CNY": 7.673266,
+                "JPY": 132.859945,
+                "USD": 1.199379
+            }
+        }
+    },
+    {
+        "date": "2021-06-17",
+        "data": {
+            "success": true,
+            "timestamp": 1623974399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-17",
+            "rates": {
+                "CNY": 7.683326,
+                "JPY": 131.42535,
+                "USD": 1.191472
+            }
+        }
+    },
+    {
+        "date": "2021-06-18",
+        "data": {
+            "success": true,
+            "timestamp": 1624060799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-18",
+            "rates": {
+                "CNY": 7.65564,
+                "JPY": 130.763652,
+                "USD": 1.18635
+            }
+        }
+    },
+    {
+        "date": "2021-06-19",
+        "data": {
+            "success": true,
+            "timestamp": 1624147199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-19",
+            "rates": {
+                "CNY": 7.656189,
+                "JPY": 130.786709,
+                "USD": 1.186435
+            }
+        }
+    },
+    {
+        "date": "2021-06-20",
+        "data": {
+            "success": true,
+            "timestamp": 1624233599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-20",
+            "rates": {
+                "CNY": 7.661516,
+                "JPY": 130.815931,
+                "USD": 1.187261
+            }
+        }
+    },
+    {
+        "date": "2021-06-21",
+        "data": {
+            "success": true,
+            "timestamp": 1624319999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-21",
+            "rates": {
+                "CNY": 7.703415,
+                "JPY": 131.478249,
+                "USD": 1.191207
+            }
+        }
+    },
+    {
+        "date": "2021-06-22",
+        "data": {
+            "success": true,
+            "timestamp": 1624406399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-22",
+            "rates": {
+                "CNY": 7.73796,
+                "JPY": 132.105045,
+                "USD": 1.19389
+            }
+        }
+    },
+    {
+        "date": "2021-06-23",
+        "data": {
+            "success": true,
+            "timestamp": 1624492799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-23",
+            "rates": {
+                "CNY": 7.72312,
+                "JPY": 132.421163,
+                "USD": 1.19294
+            }
+        }
+    },
+    {
+        "date": "2021-06-24",
+        "data": {
+            "success": true,
+            "timestamp": 1624579199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-24",
+            "rates": {
+                "CNY": 7.720186,
+                "JPY": 132.321591,
+                "USD": 1.192855
+            }
+        }
+    },
+    {
+        "date": "2021-06-25",
+        "data": {
+            "success": true,
+            "timestamp": 1624665599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-25",
+            "rates": {
+                "CNY": 7.707094,
+                "JPY": 132.237701,
+                "USD": 1.19375
+            }
+        }
+    },
+    {
+        "date": "2021-06-26",
+        "data": {
+            "success": true,
+            "timestamp": 1624751999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-26",
+            "rates": {
+                "CNY": 7.70619,
+                "JPY": 132.222195,
+                "USD": 1.19361
+            }
+        }
+    },
+    {
+        "date": "2021-06-27",
+        "data": {
+            "success": true,
+            "timestamp": 1624838399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-27",
+            "rates": {
+                "CNY": 7.709841,
+                "JPY": 132.340729,
+                "USD": 1.194158
+            }
+        }
+    },
+    {
+        "date": "2021-06-28",
+        "data": {
+            "success": true,
+            "timestamp": 1624924799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-28",
+            "rates": {
+                "CNY": 7.700539,
+                "JPY": 131.928054,
+                "USD": 1.192753
+            }
+        }
+    },
+    {
+        "date": "2021-06-29",
+        "data": {
+            "success": true,
+            "timestamp": 1625011199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-29",
+            "rates": {
+                "CNY": 7.692583,
+                "JPY": 131.549027,
+                "USD": 1.190048
+            }
+        }
+    },
+    {
+        "date": "2021-06-30",
+        "data": {
+            "success": true,
+            "timestamp": 1625097599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2021-06-30",
+            "rates": {
+                "CNY": 7.655267,
+                "JPY": 131.74889,
+                "USD": 1.18554
+            }
+        }
+    },
+    {
+        "date": "2022-06-01",
+        "data": {
+            "success": true,
+            "timestamp": 1654127999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-01",
+            "rates": {
+                "CNY": 7.122448,
+                "JPY": 138.61524,
+                "USD": 1.065247
+            }
+        }
+    },
+    {
+        "date": "2022-06-02",
+        "data": {
+            "success": true,
+            "timestamp": 1654214399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-02",
+            "rates": {
+                "CNY": 7.160302,
+                "JPY": 139.675037,
+                "USD": 1.075073
+            }
+        }
+    },
+    {
+        "date": "2022-06-03",
+        "data": {
+            "success": true,
+            "timestamp": 1654300799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-03",
+            "rates": {
+                "CNY": 7.139734,
+                "JPY": 140.244392,
+                "USD": 1.071983
+            }
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "data": {
+            "success": true,
+            "timestamp": 1654387199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-04",
+            "rates": {
+                "CNY": 7.139734,
+                "JPY": 140.263687,
+                "USD": 1.071983
+            }
+        }
+    },
+    {
+        "date": "2022-06-05",
+        "data": {
+            "success": true,
+            "timestamp": 1654473599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-05",
+            "rates": {
+                "CNY": 7.143636,
+                "JPY": 140.196141,
+                "USD": 1.07257
+            }
+        }
+    },
+    {
+        "date": "2022-06-06",
+        "data": {
+            "success": true,
+            "timestamp": 1654559999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-06",
+            "rates": {
+                "CNY": 7.11373,
+                "JPY": 141.311898,
+                "USD": 1.069107
+            }
+        }
+    },
+    {
+        "date": "2022-06-07",
+        "data": {
+            "success": true,
+            "timestamp": 1654646399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-07",
+            "rates": {
+                "CNY": 7.135939,
+                "JPY": 142.116039,
+                "USD": 1.069744
+            }
+        }
+    },
+    {
+        "date": "2022-06-08",
+        "data": {
+            "success": true,
+            "timestamp": 1654732799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-08",
+            "rates": {
+                "CNY": 7.163123,
+                "JPY": 144.076497,
+                "USD": 1.071731
+            }
+        }
+    },
+    {
+        "date": "2022-06-09",
+        "data": {
+            "success": true,
+            "timestamp": 1654819199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-09",
+            "rates": {
+                "CNY": 7.106462,
+                "JPY": 142.729758,
+                "USD": 1.061887
+            }
+        }
+    },
+    {
+        "date": "2022-06-10",
+        "data": {
+            "success": true,
+            "timestamp": 1654905599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-10",
+            "rates": {
+                "CNY": 7.056322,
+                "JPY": 141.386189,
+                "USD": 1.051785
+            }
+        }
+    },
+    {
+        "date": "2022-06-11",
+        "data": {
+            "success": true,
+            "timestamp": 1654991999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-11",
+            "rates": {
+                "CNY": 7.056322,
+                "JPY": 141.375671,
+                "USD": 1.051785
+            }
+        }
+    },
+    {
+        "date": "2022-06-12",
+        "data": {
+            "success": true,
+            "timestamp": 1655078399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-12",
+            "rates": {
+                "CNY": 7.037254,
+                "JPY": 141.415948,
+                "USD": 1.048944
+            }
+        }
+    },
+    {
+        "date": "2022-06-13",
+        "data": {
+            "success": true,
+            "timestamp": 1655164799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-13",
+            "rates": {
+                "CNY": 7.034794,
+                "JPY": 139.797857,
+                "USD": 1.041482
+            }
+        }
+    },
+    {
+        "date": "2022-06-14",
+        "data": {
+            "success": true,
+            "timestamp": 1655251199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-14",
+            "rates": {
+                "CNY": 7.037293,
+                "JPY": 141.245749,
+                "USD": 1.043952
+            }
+        }
+    },
+    {
+        "date": "2022-06-15",
+        "data": {
+            "success": true,
+            "timestamp": 1655337599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-15",
+            "rates": {
+                "CNY": 7.019333,
+                "JPY": 140.233827,
+                "USD": 1.045586
+            }
+        }
+    },
+    {
+        "date": "2022-06-16",
+        "data": {
+            "success": true,
+            "timestamp": 1655423999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-16",
+            "rates": {
+                "CNY": 7.070811,
+                "JPY": 139.673892,
+                "USD": 1.054652
+            }
+        }
+    },
+    {
+        "date": "2022-06-17",
+        "data": {
+            "success": true,
+            "timestamp": 1655510399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-17",
+            "rates": {
+                "CNY": 7.049407,
+                "JPY": 141.642446,
+                "USD": 1.049534
+            }
+        }
+    },
+    {
+        "date": "2022-06-18",
+        "data": {
+            "success": true,
+            "timestamp": 1655596799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-18",
+            "rates": {
+                "CNY": 7.049407,
+                "JPY": 141.67918,
+                "USD": 1.049534
+            }
+        }
+    },
+    {
+        "date": "2022-06-19",
+        "data": {
+            "success": true,
+            "timestamp": 1655683199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-19",
+            "rates": {
+                "CNY": 7.046553,
+                "JPY": 141.922894,
+                "USD": 1.049109
+            }
+        }
+    },
+    {
+        "date": "2022-06-20",
+        "data": {
+            "success": true,
+            "timestamp": 1655769599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-20",
+            "rates": {
+                "CNY": 7.039923,
+                "JPY": 142.101705,
+                "USD": 1.051912
+            }
+        }
+    },
+    {
+        "date": "2022-06-21",
+        "data": {
+            "success": true,
+            "timestamp": 1655855999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-21",
+            "rates": {
+                "CNY": 7.045584,
+                "JPY": 143.526266,
+                "USD": 1.05323
+            }
+        }
+    },
+    {
+        "date": "2022-06-22",
+        "data": {
+            "success": true,
+            "timestamp": 1655942399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-22",
+            "rates": {
+                "CNY": 7.079064,
+                "JPY": 143.677903,
+                "USD": 1.056245
+            }
+        }
+    },
+    {
+        "date": "2022-06-23",
+        "data": {
+            "success": true,
+            "timestamp": 1656028799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-23",
+            "rates": {
+                "CNY": 7.046466,
+                "JPY": 141.850825,
+                "USD": 1.051978
+            }
+        }
+    },
+    {
+        "date": "2022-06-24",
+        "data": {
+            "success": true,
+            "timestamp": 1656115199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-24",
+            "rates": {
+                "CNY": 7.06234,
+                "JPY": 142.739853,
+                "USD": 1.055687
+            }
+        }
+    },
+    {
+        "date": "2022-06-25",
+        "data": {
+            "success": true,
+            "timestamp": 1656201599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-25",
+            "rates": {
+                "CNY": 7.06234,
+                "JPY": 142.739853,
+                "USD": 1.055687
+            }
+        }
+    },
+    {
+        "date": "2022-06-26",
+        "data": {
+            "success": true,
+            "timestamp": 1656287999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-26",
+            "rates": {
+                "CNY": 7.068267,
+                "JPY": 142.706731,
+                "USD": 1.056574
+            }
+        }
+    },
+    {
+        "date": "2022-06-27",
+        "data": {
+            "success": true,
+            "timestamp": 1656374399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-27",
+            "rates": {
+                "CNY": 7.080297,
+                "JPY": 143.303306,
+                "USD": 1.058056
+            }
+        }
+    },
+    {
+        "date": "2022-06-28",
+        "data": {
+            "success": true,
+            "timestamp": 1656460799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-28",
+            "rates": {
+                "CNY": 7.059289,
+                "JPY": 143.167217,
+                "USD": 1.052321
+            }
+        }
+    },
+    {
+        "date": "2022-06-29",
+        "data": {
+            "success": true,
+            "timestamp": 1656547199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-29",
+            "rates": {
+                "CNY": 6.99983,
+                "JPY": 142.685208,
+                "USD": 1.044626
+            }
+        }
+    },
+    {
+        "date": "2022-06-30",
+        "data": {
+            "success": true,
+            "timestamp": 1656633599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2022-06-30",
+            "rates": {
+                "CNY": 7.018983,
+                "JPY": 142.271357,
+                "USD": 1.047735
+            }
+        }
+    },
+    {
+        "date": "2023-01-01",
+        "data": {
+            "success": true,
+            "timestamp": 1672617599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-01",
+            "rates": {
+                "CNY": 7.383866,
+                "JPY": 140.143361,
+                "USD": 1.070452
+            }
+        }
+    },
+    {
+        "date": "2023-01-02",
+        "data": {
+            "success": true,
+            "timestamp": 1672703999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-02",
+            "rates": {
+                "CNY": 7.365891,
+                "JPY": 139.659454,
+                "USD": 1.067737
+            }
+        }
+    },
+    {
+        "date": "2023-01-03",
+        "data": {
+            "success": true,
+            "timestamp": 1672790399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-03",
+            "rates": {
+                "CNY": 7.293021,
+                "JPY": 138.426728,
+                "USD": 1.054652
+            }
+        }
+    },
+    {
+        "date": "2023-01-04",
+        "data": {
+            "success": true,
+            "timestamp": 1672876799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-04",
+            "rates": {
+                "CNY": 7.307908,
+                "JPY": 140.242242,
+                "USD": 1.060839
+            }
+        }
+    },
+    {
+        "date": "2023-01-05",
+        "data": {
+            "success": true,
+            "timestamp": 1672963199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-05",
+            "rates": {
+                "CNY": 7.241713,
+                "JPY": 140.267682,
+                "USD": 1.052192
+            }
+        }
+    },
+    {
+        "date": "2023-01-06",
+        "data": {
+            "success": true,
+            "timestamp": 1673049599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-06",
+            "rates": {
+                "CNY": 7.292457,
+                "JPY": 140.853085,
+                "USD": 1.066382
+            }
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "data": {
+            "success": true,
+            "timestamp": 1673135999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-07",
+            "rates": {
+                "CNY": 7.29235,
+                "JPY": 140.853085,
+                "USD": 1.066382
+            }
+        }
+    },
+    {
+        "date": "2023-01-08",
+        "data": {
+            "success": true,
+            "timestamp": 1673222399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-08",
+            "rates": {
+                "CNY": 7.286983,
+                "JPY": 140.517751,
+                "USD": 1.065598
+            }
+        }
+    },
+    {
+        "date": "2023-01-09",
+        "data": {
+            "success": true,
+            "timestamp": 1673308799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-09",
+            "rates": {
+                "CNY": 7.269901,
+                "JPY": 141.404695,
+                "USD": 1.073445
+            }
+        }
+    },
+    {
+        "date": "2023-01-10",
+        "data": {
+            "success": true,
+            "timestamp": 1673395199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-10",
+            "rates": {
+                "CNY": 7.279163,
+                "JPY": 141.863402,
+                "USD": 1.07386
+            }
+        }
+    },
+    {
+        "date": "2023-01-11",
+        "data": {
+            "success": true,
+            "timestamp": 1673481599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-11",
+            "rates": {
+                "CNY": 7.28786,
+                "JPY": 142.060818,
+                "USD": 1.076414
+            }
+        }
+    },
+    {
+        "date": "2023-01-12",
+        "data": {
+            "success": true,
+            "timestamp": 1673567999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-12",
+            "rates": {
+                "CNY": 7.318181,
+                "JPY": 140.19913,
+                "USD": 1.085977
+            }
+        }
+    },
+    {
+        "date": "2023-01-13",
+        "data": {
+            "success": true,
+            "timestamp": 1673654399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-13",
+            "rates": {
+                "CNY": 7.271289,
+                "JPY": 138.737302,
+                "USD": 1.084775
+            }
+        }
+    },
+    {
+        "date": "2023-01-14",
+        "data": {
+            "success": true,
+            "timestamp": 1673740799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-14",
+            "rates": {
+                "CNY": 7.271141,
+                "JPY": 138.726454,
+                "USD": 1.084775
+            }
+        }
+    },
+    {
+        "date": "2023-01-15",
+        "data": {
+            "success": true,
+            "timestamp": 1673827199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-15",
+            "rates": {
+                "CNY": 7.2554,
+                "JPY": 138.584141,
+                "USD": 1.082427
+            }
+        }
+    },
+    {
+        "date": "2023-01-16",
+        "data": {
+            "success": true,
+            "timestamp": 1673913599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-16",
+            "rates": {
+                "CNY": 7.292344,
+                "JPY": 138.972014,
+                "USD": 1.082978
+            }
+        }
+    },
+    {
+        "date": "2023-01-17",
+        "data": {
+            "success": true,
+            "timestamp": 1673999999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-17",
+            "rates": {
+                "CNY": 7.307256,
+                "JPY": 138.380875,
+                "USD": 1.078737
+            }
+        }
+    },
+    {
+        "date": "2023-01-18",
+        "data": {
+            "success": true,
+            "timestamp": 1674086399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-18",
+            "rates": {
+                "CNY": 7.286102,
+                "JPY": 138.834025,
+                "USD": 1.079727
+            }
+        }
+    },
+    {
+        "date": "2023-01-19",
+        "data": {
+            "success": true,
+            "timestamp": 1674172799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-19",
+            "rates": {
+                "CNY": 7.342808,
+                "JPY": 139.109103,
+                "USD": 1.083506
+            }
+        }
+    },
+    {
+        "date": "2023-01-20",
+        "data": {
+            "success": true,
+            "timestamp": 1674259199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-20",
+            "rates": {
+                "CNY": 7.378479,
+                "JPY": 140.911965,
+                "USD": 1.087661
+            }
+        }
+    },
+    {
+        "date": "2023-01-21",
+        "data": {
+            "success": true,
+            "timestamp": 1674345599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-21",
+            "rates": {
+                "CNY": 7.378693,
+                "JPY": 140.920194,
+                "USD": 1.087725
+            }
+        }
+    },
+    {
+        "date": "2023-01-22",
+        "data": {
+            "success": true,
+            "timestamp": 1674431999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-22",
+            "rates": {
+                "CNY": 7.370119,
+                "JPY": 140.541836,
+                "USD": 1.086461
+            }
+        }
+    },
+    {
+        "date": "2023-01-23",
+        "data": {
+            "success": true,
+            "timestamp": 1674518399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-23",
+            "rates": {
+                "CNY": 7.376221,
+                "JPY": 141.9438,
+                "USD": 1.087217
+            }
+        }
+    },
+    {
+        "date": "2023-01-24",
+        "data": {
+            "success": true,
+            "timestamp": 1674604799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-24",
+            "rates": {
+                "CNY": 7.386828,
+                "JPY": 141.804803,
+                "USD": 1.088779
+            }
+        }
+    },
+    {
+        "date": "2023-01-25",
+        "data": {
+            "success": true,
+            "timestamp": 1674691199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-25",
+            "rates": {
+                "CNY": 7.409157,
+                "JPY": 141.151823,
+                "USD": 1.092167
+            }
+        }
+    },
+    {
+        "date": "2023-01-26",
+        "data": {
+            "success": true,
+            "timestamp": 1674777599,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-26",
+            "rates": {
+                "CNY": 7.390268,
+                "JPY": 141.414697,
+                "USD": 1.089448
+            }
+        }
+    },
+    {
+        "date": "2023-01-27",
+        "data": {
+            "success": true,
+            "timestamp": 1674863999,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-27",
+            "rates": {
+                "CNY": 7.375375,
+                "JPY": 141.217701,
+                "USD": 1.087251
+            }
+        }
+    },
+    {
+        "date": "2023-01-28",
+        "data": {
+            "success": true,
+            "timestamp": 1674950399,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-28",
+            "rates": {
+                "CNY": 7.375266,
+                "JPY": 141.206828,
+                "USD": 1.087251
+            }
+        }
+    },
+    {
+        "date": "2023-01-29",
+        "data": {
+            "success": true,
+            "timestamp": 1675036799,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-29",
+            "rates": {
+                "CNY": 7.374305,
+                "JPY": 141.171629,
+                "USD": 1.08711
+            }
+        }
+    },
+    {
+        "date": "2023-01-30",
+        "data": {
+            "success": true,
+            "timestamp": 1675123199,
+            "historical": true,
+            "base": "EUR",
+            "date": "2023-01-30",
+            "rates": {
+                "CNY": 7.322082,
+                "JPY": 141.608698,
+                "USD": 1.084945
+            }
+        }
+    }
+]

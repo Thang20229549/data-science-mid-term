@@ -1,0 +1,6482 @@
+[
+    {
+        "date": "2020-06-01",
+        "data": {
+            "data": {
+                "date": "2020-06-01",
+                "last_update": "2020-06-02 02:33:08",
+                "confirmed": 1811360,
+                "confirmed_diff": 21188,
+                "deaths": 105165,
+                "deaths_diff": 784,
+                "recovered": 458231,
+                "recovered_diff": 13473,
+                "active": 1247964,
+                "active_diff": 6931,
+                "fatality_rate": 0.0581
+            }
+        }
+    },
+    {
+        "date": "2020-06-02",
+        "data": {
+            "data": {
+                "date": "2020-06-02",
+                "last_update": "2020-06-03 02:33:13",
+                "confirmed": 1831821,
+                "confirmed_diff": 20461,
+                "deaths": 106180,
+                "deaths_diff": 1015,
+                "recovered": 463868,
+                "recovered_diff": 5637,
+                "active": 1261773,
+                "active_diff": 13809,
+                "fatality_rate": 0.058
+            }
+        }
+    },
+    {
+        "date": "2020-06-03",
+        "data": {
+            "data": {
+                "date": "2020-06-03",
+                "last_update": "2020-06-04 02:33:14",
+                "confirmed": 1851520,
+                "confirmed_diff": 19699,
+                "deaths": 107175,
+                "deaths_diff": 995,
+                "recovered": 479258,
+                "recovered_diff": 15390,
+                "active": 1265087,
+                "active_diff": 3314,
+                "fatality_rate": 0.0579
+            }
+        }
+    },
+    {
+        "date": "2020-06-04",
+        "data": {
+            "data": {
+                "date": "2020-06-04",
+                "last_update": "2020-06-05 02:33:06",
+                "confirmed": 1872660,
+                "confirmed_diff": 21140,
+                "deaths": 108211,
+                "deaths_diff": 1036,
+                "recovered": 485002,
+                "recovered_diff": 5744,
+                "active": 1279447,
+                "active_diff": 14360,
+                "fatality_rate": 0.0578
+            }
+        }
+    },
+    {
+        "date": "2020-06-05",
+        "data": {
+            "data": {
+                "date": "2020-06-05",
+                "last_update": "2020-06-06 02:33:00",
+                "confirmed": 1897380,
+                "confirmed_diff": 24720,
+                "deaths": 109132,
+                "deaths_diff": 921,
+                "recovered": 491706,
+                "recovered_diff": 6704,
+                "active": 1296542,
+                "active_diff": 17095,
+                "fatality_rate": 0.0575
+            }
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "data": {
+            "data": {
+                "date": "2020-06-06",
+                "last_update": "2020-06-07 03:53:30",
+                "confirmed": 1920061,
+                "confirmed_diff": 22681,
+                "deaths": 109802,
+                "deaths_diff": 670,
+                "recovered": 500849,
+                "recovered_diff": 9143,
+                "active": 1309410,
+                "active_diff": 12868,
+                "fatality_rate": 0.0572
+            }
+        }
+    },
+    {
+        "date": "2020-06-07",
+        "data": {
+            "data": {
+                "date": "2020-06-07",
+                "last_update": "2020-06-08 03:33:22",
+                "confirmed": 1942363,
+                "confirmed_diff": 22302,
+                "deaths": 110514,
+                "deaths_diff": 712,
+                "recovered": 506367,
+                "recovered_diff": 5518,
+                "active": 1325482,
+                "active_diff": 16072,
+                "fatality_rate": 0.0569
+            }
+        }
+    },
+    {
+        "date": "2020-06-08",
+        "data": {
+            "data": {
+                "date": "2020-06-08",
+                "last_update": "2020-06-09 03:33:03",
+                "confirmed": 1960897,
+                "confirmed_diff": 18534,
+                "deaths": 110990,
+                "deaths_diff": 476,
+                "recovered": 518522,
+                "recovered_diff": 12155,
+                "active": 1331385,
+                "active_diff": 5903,
+                "fatality_rate": 0.0566
+            }
+        }
+    },
+    {
+        "date": "2020-06-09",
+        "data": {
+            "data": {
+                "date": "2020-06-09",
+                "last_update": "2020-06-10 04:07:00",
+                "confirmed": 1979411,
+                "confirmed_diff": 18514,
+                "deaths": 111989,
+                "deaths_diff": 999,
+                "recovered": 524855,
+                "recovered_diff": 6333,
+                "active": 1342567,
+                "active_diff": 11182,
+                "fatality_rate": 0.0566
+            }
+        }
+    },
+    {
+        "date": "2020-06-10",
+        "data": {
+            "data": {
+                "date": "2020-06-10",
+                "last_update": "2020-06-11 03:33:41",
+                "confirmed": 2000464,
+                "confirmed_diff": 21053,
+                "deaths": 112924,
+                "deaths_diff": 935,
+                "recovered": 533504,
+                "recovered_diff": 8649,
+                "active": 1354036,
+                "active_diff": 11469,
+                "fatality_rate": 0.0564
+            }
+        }
+    },
+    {
+        "date": "2020-06-11",
+        "data": {
+            "data": {
+                "date": "2020-06-11",
+                "last_update": "2020-06-12 05:09:52",
+                "confirmed": 2023347,
+                "confirmed_diff": 22883,
+                "deaths": 113820,
+                "deaths_diff": 896,
+                "recovered": 540292,
+                "recovered_diff": 6788,
+                "active": 1369235,
+                "active_diff": 15199,
+                "fatality_rate": 0.0563
+            }
+        }
+    },
+    {
+        "date": "2020-06-12",
+        "data": {
+            "data": {
+                "date": "2020-06-12",
+                "last_update": "2020-06-13 03:33:14",
+                "confirmed": 2048986,
+                "confirmed_diff": 25639,
+                "deaths": 114669,
+                "deaths_diff": 849,
+                "recovered": 547386,
+                "recovered_diff": 7094,
+                "active": 1386931,
+                "active_diff": 17696,
+                "fatality_rate": 0.056
+            }
+        }
+    },
+    {
+        "date": "2020-06-13",
+        "data": {
+            "data": {
+                "date": "2020-06-13",
+                "last_update": "2020-06-14 03:33:15",
+                "confirmed": 2074526,
+                "confirmed_diff": 25540,
+                "deaths": 115436,
+                "deaths_diff": 767,
+                "recovered": 556606,
+                "recovered_diff": 9220,
+                "active": 1402484,
+                "active_diff": 15553,
+                "fatality_rate": 0.0556
+            }
+        }
+    },
+    {
+        "date": "2020-06-14",
+        "data": {
+            "data": {
+                "date": "2020-06-14",
+                "last_update": "2020-06-15 03:33:14",
+                "confirmed": 2094058,
+                "confirmed_diff": 19532,
+                "deaths": 115732,
+                "deaths_diff": 296,
+                "recovered": 561816,
+                "recovered_diff": 5210,
+                "active": 1416510,
+                "active_diff": 14026,
+                "fatality_rate": 0.0553
+            }
+        }
+    },
+    {
+        "date": "2020-06-15",
+        "data": {
+            "data": {
+                "date": "2020-06-15",
+                "last_update": "2020-06-16 04:33:09",
+                "confirmed": 2114026,
+                "confirmed_diff": 19968,
+                "deaths": 116127,
+                "deaths_diff": 395,
+                "recovered": 576334,
+                "recovered_diff": 14518,
+                "active": 1421565,
+                "active_diff": 5055,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-16",
+        "data": {
+            "data": {
+                "date": "2020-06-16",
+                "last_update": "2020-06-17 04:33:21",
+                "confirmed": 2137731,
+                "confirmed_diff": 23705,
+                "deaths": 116963,
+                "deaths_diff": 836,
+                "recovered": 583503,
+                "recovered_diff": 7169,
+                "active": 1437265,
+                "active_diff": 15700,
+                "fatality_rate": 0.0547
+            }
+        }
+    },
+    {
+        "date": "2020-06-17",
+        "data": {
+            "data": {
+                "date": "2020-06-17",
+                "last_update": "2020-06-18 04:33:18",
+                "confirmed": 2163290,
+                "confirmed_diff": 25559,
+                "deaths": 117717,
+                "deaths_diff": 754,
+                "recovered": 592191,
+                "recovered_diff": 8688,
+                "active": 1453382,
+                "active_diff": 16117,
+                "fatality_rate": 0.0544
+            }
+        }
+    },
+    {
+        "date": "2020-06-18",
+        "data": {
+            "data": {
+                "date": "2020-06-18",
+                "last_update": "2020-06-19 04:33:17",
+                "confirmed": 2191053,
+                "confirmed_diff": 27763,
+                "deaths": 118440,
+                "deaths_diff": 723,
+                "recovered": 599115,
+                "recovered_diff": 6924,
+                "active": 1473498,
+                "active_diff": 20116,
+                "fatality_rate": 0.0541
+            }
+        }
+    },
+    {
+        "date": "2020-06-19",
+        "data": {
+            "data": {
+                "date": "2020-06-19",
+                "last_update": "2020-06-20 04:33:19",
+                "confirmed": 2220962,
+                "confirmed_diff": 29909,
+                "deaths": 119118,
+                "deaths_diff": 678,
+                "recovered": 606715,
+                "recovered_diff": 7600,
+                "active": 1495129,
+                "active_diff": 21631,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-20",
+        "data": {
+            "data": {
+                "date": "2020-06-20",
+                "last_update": "2020-06-21 04:33:19",
+                "confirmed": 2255119,
+                "confirmed_diff": 34157,
+                "deaths": 119719,
+                "deaths_diff": 601,
+                "recovered": 617460,
+                "recovered_diff": 10745,
+                "active": 1517940,
+                "active_diff": 22811,
+                "fatality_rate": 0.0531
+            }
+        }
+    },
+    {
+        "date": "2020-06-21",
+        "data": {
+            "data": {
+                "date": "2020-06-21",
+                "last_update": "2020-06-22 04:33:20",
+                "confirmed": 2279879,
+                "confirmed_diff": 24760,
+                "deaths": 119969,
+                "deaths_diff": 250,
+                "recovered": 622133,
+                "recovered_diff": 4673,
+                "active": 1537777,
+                "active_diff": 19837,
+                "fatality_rate": 0.0526
+            }
+        }
+    },
+    {
+        "date": "2020-06-22",
+        "data": {
+            "data": {
+                "date": "2020-06-22",
+                "last_update": "2020-06-23 04:33:22",
+                "confirmed": 2312300,
+                "confirmed_diff": 32421,
+                "deaths": 120402,
+                "deaths_diff": 433,
+                "recovered": 640198,
+                "recovered_diff": 18065,
+                "active": 1551700,
+                "active_diff": 13923,
+                "fatality_rate": 0.0521
+            }
+        }
+    },
+    {
+        "date": "2020-06-23",
+        "data": {
+            "data": {
+                "date": "2020-06-23",
+                "last_update": "2020-06-24 04:33:28",
+                "confirmed": 2347022,
+                "confirmed_diff": 34722,
+                "deaths": 121228,
+                "deaths_diff": 826,
+                "recovered": 647548,
+                "recovered_diff": 7350,
+                "active": 1578246,
+                "active_diff": 26546,
+                "fatality_rate": 0.0517
+            }
+        }
+    },
+    {
+        "date": "2020-06-24",
+        "data": {
+            "data": {
+                "date": "2020-06-24",
+                "last_update": "2020-06-25 05:26:54",
+                "confirmed": 2381361,
+                "confirmed_diff": 34339,
+                "deaths": 121979,
+                "deaths_diff": 751,
+                "recovered": 656161,
+                "recovered_diff": 8613,
+                "active": 1603221,
+                "active_diff": 24975,
+                "fatality_rate": 0.0512
+            }
+        }
+    },
+    {
+        "date": "2020-06-25",
+        "data": {
+            "data": {
+                "date": "2020-06-25",
+                "last_update": "2020-06-26 04:33:43",
+                "confirmed": 2422299,
+                "confirmed_diff": 40938,
+                "deaths": 124410,
+                "deaths_diff": 2431,
+                "recovered": 663562,
+                "recovered_diff": 7401,
+                "active": 1634327,
+                "active_diff": 31106,
+                "fatality_rate": 0.0514
+            }
+        }
+    },
+    {
+        "date": "2020-06-26",
+        "data": {
+            "data": {
+                "date": "2020-06-26",
+                "last_update": "2020-06-27 04:33:35",
+                "confirmed": 2439837,
+                "confirmed_diff": 44911,
+                "deaths": 124335,
+                "deaths_diff": 621,
+                "recovered": 670809,
+                "recovered_diff": 7247,
+                "active": 1644693,
+                "active_diff": 37043,
+                "fatality_rate": 0.051
+            }
+        }
+    },
+    {
+        "date": "2020-06-27",
+        "data": {
+            "data": {
+                "date": "2020-06-27",
+                "last_update": "2020-06-28 04:34:04",
+                "confirmed": 2510151,
+                "confirmed_diff": 42941,
+                "deaths": 125539,
+                "deaths_diff": 508,
+                "recovered": 679308,
+                "recovered_diff": 8499,
+                "active": 1705304,
+                "active_diff": 33934,
+                "fatality_rate": 0.05
+            }
+        }
+    },
+    {
+        "date": "2020-06-28",
+        "data": {
+            "data": {
+                "date": "2020-06-28",
+                "last_update": "2020-06-29 04:33:44",
+                "confirmed": 2548996,
+                "confirmed_diff": 38845,
+                "deaths": 125803,
+                "deaths_diff": 264,
+                "recovered": 685164,
+                "recovered_diff": 5856,
+                "active": 1738029,
+                "active_diff": 32725,
+                "fatality_rate": 0.0494
+            }
+        }
+    },
+    {
+        "date": "2020-06-29",
+        "data": {
+            "data": {
+                "date": "2020-06-29",
+                "last_update": "2020-06-30 04:33:48",
+                "confirmed": 2590552,
+                "confirmed_diff": 41556,
+                "deaths": 126140,
+                "deaths_diff": 337,
+                "recovered": 705203,
+                "recovered_diff": 20039,
+                "active": 1759209,
+                "active_diff": 21180,
+                "fatality_rate": 0.0487
+            }
+        }
+    },
+    {
+        "date": "2020-06-30",
+        "data": {
+            "data": {
+                "date": "2020-06-30",
+                "last_update": "2020-07-01 04:33:52",
+                "confirmed": 2635417,
+                "confirmed_diff": 44865,
+                "deaths": 127417,
+                "deaths_diff": 1277,
+                "recovered": 720631,
+                "recovered_diff": 15428,
+                "active": 1787369,
+                "active_diff": 28160,
+                "fatality_rate": 0.0483
+            }
+        }
+    },
+    {
+        "date": "2020-06-01",
+        "data": {
+            "data": {
+                "date": "2020-06-01",
+                "last_update": "2020-06-02 02:33:08",
+                "confirmed": 84154,
+                "confirmed_diff": 8,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79398,
+                "recovered_diff": 9,
+                "active": 118,
+                "active_diff": -1,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-02",
+        "data": {
+            "data": {
+                "date": "2020-06-02",
+                "last_update": "2020-06-03 02:33:13",
+                "confirmed": 84161,
+                "confirmed_diff": 7,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79400,
+                "recovered_diff": 2,
+                "active": 123,
+                "active_diff": 5,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-03",
+        "data": {
+            "data": {
+                "date": "2020-06-03",
+                "last_update": "2020-06-04 02:33:14",
+                "confirmed": 84160,
+                "confirmed_diff": -1,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79404,
+                "recovered_diff": 4,
+                "active": 118,
+                "active_diff": -5,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-04",
+        "data": {
+            "data": {
+                "date": "2020-06-04",
+                "last_update": "2020-06-05 02:33:06",
+                "confirmed": 84171,
+                "confirmed_diff": 11,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79415,
+                "recovered_diff": 11,
+                "active": 118,
+                "active_diff": 0,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-05",
+        "data": {
+            "data": {
+                "date": "2020-06-05",
+                "last_update": "2020-06-06 02:33:00",
+                "confirmed": 84177,
+                "confirmed_diff": 6,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79420,
+                "recovered_diff": 5,
+                "active": 119,
+                "active_diff": 1,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "data": {
+            "data": {
+                "date": "2020-06-06",
+                "last_update": "2020-06-07 03:53:30",
+                "confirmed": 84186,
+                "confirmed_diff": 9,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79424,
+                "recovered_diff": 4,
+                "active": 124,
+                "active_diff": 5,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-07",
+        "data": {
+            "data": {
+                "date": "2020-06-07",
+                "last_update": "2020-06-08 03:33:22",
+                "confirmed": 84191,
+                "confirmed_diff": 5,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79434,
+                "recovered_diff": 10,
+                "active": 119,
+                "active_diff": -5,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-08",
+        "data": {
+            "data": {
+                "date": "2020-06-08",
+                "last_update": "2020-06-09 03:33:03",
+                "confirmed": 84195,
+                "confirmed_diff": 4,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79444,
+                "recovered_diff": 10,
+                "active": 113,
+                "active_diff": -6,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-09",
+        "data": {
+            "data": {
+                "date": "2020-06-09",
+                "last_update": "2020-06-10 04:07:00",
+                "confirmed": 84198,
+                "confirmed_diff": 3,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79451,
+                "recovered_diff": 7,
+                "active": 109,
+                "active_diff": -4,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-10",
+        "data": {
+            "data": {
+                "date": "2020-06-10",
+                "last_update": "2020-06-11 03:33:41",
+                "confirmed": 84209,
+                "confirmed_diff": 11,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79456,
+                "recovered_diff": 5,
+                "active": 115,
+                "active_diff": 6,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-11",
+        "data": {
+            "data": {
+                "date": "2020-06-11",
+                "last_update": "2020-06-12 05:09:52",
+                "confirmed": 84216,
+                "confirmed_diff": 7,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79464,
+                "recovered_diff": 8,
+                "active": 114,
+                "active_diff": -1,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-12",
+        "data": {
+            "data": {
+                "date": "2020-06-12",
+                "last_update": "2020-06-13 03:33:14",
+                "confirmed": 84228,
+                "confirmed_diff": 12,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79472,
+                "recovered_diff": 8,
+                "active": 118,
+                "active_diff": 4,
+                "fatality_rate": 0.0551
+            }
+        }
+    },
+    {
+        "date": "2020-06-13",
+        "data": {
+            "data": {
+                "date": "2020-06-13",
+                "last_update": "2020-06-14 03:33:15",
+                "confirmed": 84286,
+                "confirmed_diff": 58,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79475,
+                "recovered_diff": 3,
+                "active": 173,
+                "active_diff": 55,
+                "fatality_rate": 0.055
+            }
+        }
+    },
+    {
+        "date": "2020-06-14",
+        "data": {
+            "data": {
+                "date": "2020-06-14",
+                "last_update": "2020-06-15 03:33:14",
+                "confirmed": 84335,
+                "confirmed_diff": 49,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79482,
+                "recovered_diff": 7,
+                "active": 215,
+                "active_diff": 42,
+                "fatality_rate": 0.055
+            }
+        }
+    },
+    {
+        "date": "2020-06-15",
+        "data": {
+            "data": {
+                "date": "2020-06-15",
+                "last_update": "2020-06-16 04:33:09",
+                "confirmed": 84378,
+                "confirmed_diff": 43,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79489,
+                "recovered_diff": 7,
+                "active": 251,
+                "active_diff": 36,
+                "fatality_rate": 0.055
+            }
+        }
+    },
+    {
+        "date": "2020-06-16",
+        "data": {
+            "data": {
+                "date": "2020-06-16",
+                "last_update": "2020-06-17 04:33:21",
+                "confirmed": 84422,
+                "confirmed_diff": 44,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79493,
+                "recovered_diff": 4,
+                "active": 291,
+                "active_diff": 40,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-17",
+        "data": {
+            "data": {
+                "date": "2020-06-17",
+                "last_update": "2020-06-18 04:33:18",
+                "confirmed": 84458,
+                "confirmed_diff": 36,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79510,
+                "recovered_diff": 17,
+                "active": 310,
+                "active_diff": 19,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-18",
+        "data": {
+            "data": {
+                "date": "2020-06-18",
+                "last_update": "2020-06-19 04:33:17",
+                "confirmed": 84494,
+                "confirmed_diff": 36,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79515,
+                "recovered_diff": 5,
+                "active": 341,
+                "active_diff": 31,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-19",
+        "data": {
+            "data": {
+                "date": "2020-06-19",
+                "last_update": "2020-06-20 04:33:19",
+                "confirmed": 84494,
+                "confirmed_diff": 0,
+                "deaths": 4638,
+                "deaths_diff": 0,
+                "recovered": 79515,
+                "recovered_diff": 0,
+                "active": 341,
+                "active_diff": 0,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-20",
+        "data": {
+            "data": {
+                "date": "2020-06-20",
+                "last_update": "2020-06-21 04:33:19",
+                "confirmed": 84553,
+                "confirmed_diff": 59,
+                "deaths": 4639,
+                "deaths_diff": 1,
+                "recovered": 79534,
+                "recovered_diff": 19,
+                "active": 380,
+                "active_diff": 39,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-21",
+        "data": {
+            "data": {
+                "date": "2020-06-21",
+                "last_update": "2020-06-22 04:33:20",
+                "confirmed": 84572,
+                "confirmed_diff": 19,
+                "deaths": 4639,
+                "deaths_diff": 0,
+                "recovered": 79535,
+                "recovered_diff": 1,
+                "active": 398,
+                "active_diff": 18,
+                "fatality_rate": 0.0549
+            }
+        }
+    },
+    {
+        "date": "2020-06-22",
+        "data": {
+            "data": {
+                "date": "2020-06-22",
+                "last_update": "2020-06-23 04:33:22",
+                "confirmed": 84624,
+                "confirmed_diff": 52,
+                "deaths": 4639,
+                "deaths_diff": 0,
+                "recovered": 79547,
+                "recovered_diff": 12,
+                "active": 438,
+                "active_diff": 40,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-23",
+        "data": {
+            "data": {
+                "date": "2020-06-23",
+                "last_update": "2020-06-24 04:33:28",
+                "confirmed": 84653,
+                "confirmed_diff": 29,
+                "deaths": 4640,
+                "deaths_diff": 1,
+                "recovered": 79555,
+                "recovered_diff": 8,
+                "active": 458,
+                "active_diff": 20,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-24",
+        "data": {
+            "data": {
+                "date": "2020-06-24",
+                "last_update": "2020-06-25 05:26:54",
+                "confirmed": 84673,
+                "confirmed_diff": 20,
+                "deaths": 4640,
+                "deaths_diff": 0,
+                "recovered": 79562,
+                "recovered_diff": 7,
+                "active": 471,
+                "active_diff": 13,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-25",
+        "data": {
+            "data": {
+                "date": "2020-06-25",
+                "last_update": "2020-06-26 04:33:43",
+                "confirmed": 84701,
+                "confirmed_diff": 28,
+                "deaths": 4641,
+                "deaths_diff": 1,
+                "recovered": 79572,
+                "recovered_diff": 10,
+                "active": 488,
+                "active_diff": 17,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-26",
+        "data": {
+            "data": {
+                "date": "2020-06-26",
+                "last_update": "2020-06-27 04:33:35",
+                "confirmed": 84725,
+                "confirmed_diff": 24,
+                "deaths": 4641,
+                "deaths_diff": 0,
+                "recovered": 79580,
+                "recovered_diff": 8,
+                "active": 504,
+                "active_diff": 16,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-27",
+        "data": {
+            "data": {
+                "date": "2020-06-27",
+                "last_update": "2020-06-28 04:34:04",
+                "confirmed": 84743,
+                "confirmed_diff": 18,
+                "deaths": 4641,
+                "deaths_diff": 0,
+                "recovered": 79591,
+                "recovered_diff": 11,
+                "active": 511,
+                "active_diff": 7,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-28",
+        "data": {
+            "data": {
+                "date": "2020-06-28",
+                "last_update": "2020-06-29 04:33:44",
+                "confirmed": 84757,
+                "confirmed_diff": 14,
+                "deaths": 4641,
+                "deaths_diff": 0,
+                "recovered": 79609,
+                "recovered_diff": 18,
+                "active": 507,
+                "active_diff": -4,
+                "fatality_rate": 0.0548
+            }
+        }
+    },
+    {
+        "date": "2020-06-29",
+        "data": {
+            "data": {
+                "date": "2020-06-29",
+                "last_update": "2020-06-30 04:33:48",
+                "confirmed": 84780,
+                "confirmed_diff": 23,
+                "deaths": 4641,
+                "deaths_diff": 0,
+                "recovered": 79619,
+                "recovered_diff": 10,
+                "active": 520,
+                "active_diff": 13,
+                "fatality_rate": 0.0547
+            }
+        }
+    },
+    {
+        "date": "2020-06-30",
+        "data": {
+            "data": {
+                "date": "2020-06-30",
+                "last_update": "2020-07-01 04:33:52",
+                "confirmed": 84785,
+                "confirmed_diff": 5,
+                "deaths": 4641,
+                "deaths_diff": 0,
+                "recovered": 79632,
+                "recovered_diff": 13,
+                "active": 512,
+                "active_diff": -8,
+                "fatality_rate": 0.0547
+            }
+        }
+    },
+    {
+        "date": "2020-06-01",
+        "data": {
+            "data": {
+                "date": "2020-06-01",
+                "last_update": "2020-06-02 02:33:08",
+                "confirmed": 16787,
+                "confirmed_diff": 36,
+                "deaths": 899,
+                "deaths_diff": 1,
+                "recovered": 14463,
+                "recovered_diff": 121,
+                "active": 1425,
+                "active_diff": -86,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-02",
+        "data": {
+            "data": {
+                "date": "2020-06-02",
+                "last_update": "2020-06-03 02:33:13",
+                "confirmed": 16837,
+                "confirmed_diff": 50,
+                "deaths": 902,
+                "deaths_diff": 3,
+                "recovered": 14585,
+                "recovered_diff": 122,
+                "active": 1350,
+                "active_diff": -75,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-03",
+        "data": {
+            "data": {
+                "date": "2020-06-03",
+                "last_update": "2020-06-04 02:33:14",
+                "confirmed": 16867,
+                "confirmed_diff": 30,
+                "deaths": 905,
+                "deaths_diff": 3,
+                "recovered": 14702,
+                "recovered_diff": 117,
+                "active": 1260,
+                "active_diff": -90,
+                "fatality_rate": 0.0537
+            }
+        }
+    },
+    {
+        "date": "2020-06-04",
+        "data": {
+            "data": {
+                "date": "2020-06-04",
+                "last_update": "2020-06-05 02:33:06",
+                "confirmed": 16911,
+                "confirmed_diff": 44,
+                "deaths": 911,
+                "deaths_diff": 6,
+                "recovered": 14785,
+                "recovered_diff": 83,
+                "active": 1215,
+                "active_diff": -45,
+                "fatality_rate": 0.0539
+            }
+        }
+    },
+    {
+        "date": "2020-06-05",
+        "data": {
+            "data": {
+                "date": "2020-06-05",
+                "last_update": "2020-06-06 02:33:00",
+                "confirmed": 16958,
+                "confirmed_diff": 47,
+                "deaths": 916,
+                "deaths_diff": 5,
+                "recovered": 14925,
+                "recovered_diff": 140,
+                "active": 1117,
+                "active_diff": -98,
+                "fatality_rate": 0.054
+            }
+        }
+    },
+    {
+        "date": "2020-06-06",
+        "data": {
+            "data": {
+                "date": "2020-06-06",
+                "last_update": "2020-06-07 03:53:30",
+                "confirmed": 17000,
+                "confirmed_diff": 42,
+                "deaths": 915,
+                "deaths_diff": -1,
+                "recovered": 14927,
+                "recovered_diff": 2,
+                "active": 1158,
+                "active_diff": 41,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-07",
+        "data": {
+            "data": {
+                "date": "2020-06-07",
+                "last_update": "2020-06-08 03:33:22",
+                "confirmed": 17039,
+                "confirmed_diff": 39,
+                "deaths": 917,
+                "deaths_diff": 2,
+                "recovered": 14990,
+                "recovered_diff": 63,
+                "active": 1132,
+                "active_diff": -26,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-08",
+        "data": {
+            "data": {
+                "date": "2020-06-08",
+                "last_update": "2020-06-09 03:33:03",
+                "confirmed": 17060,
+                "confirmed_diff": 21,
+                "deaths": 920,
+                "deaths_diff": 3,
+                "recovered": 15043,
+                "recovered_diff": 53,
+                "active": 1097,
+                "active_diff": -35,
+                "fatality_rate": 0.0539
+            }
+        }
+    },
+    {
+        "date": "2020-06-09",
+        "data": {
+            "data": {
+                "date": "2020-06-09",
+                "last_update": "2020-06-10 04:07:00",
+                "confirmed": 17111,
+                "confirmed_diff": 51,
+                "deaths": 920,
+                "deaths_diff": 0,
+                "recovered": 15141,
+                "recovered_diff": 98,
+                "active": 1050,
+                "active_diff": -47,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-10",
+        "data": {
+            "data": {
+                "date": "2020-06-10",
+                "last_update": "2020-06-11 03:33:41",
+                "confirmed": 17146,
+                "confirmed_diff": 35,
+                "deaths": 922,
+                "deaths_diff": 2,
+                "recovered": 15217,
+                "recovered_diff": 76,
+                "active": 1007,
+                "active_diff": -43,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-11",
+        "data": {
+            "data": {
+                "date": "2020-06-11",
+                "last_update": "2020-06-12 05:09:52",
+                "confirmed": 17187,
+                "confirmed_diff": 41,
+                "deaths": 922,
+                "deaths_diff": 0,
+                "recovered": 15233,
+                "recovered_diff": 16,
+                "active": 1032,
+                "active_diff": 25,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-12",
+        "data": {
+            "data": {
+                "date": "2020-06-12",
+                "last_update": "2020-06-13 03:33:14",
+                "confirmed": 17250,
+                "confirmed_diff": 63,
+                "deaths": 924,
+                "deaths_diff": 2,
+                "recovered": 15362,
+                "recovered_diff": 129,
+                "active": 964,
+                "active_diff": -68,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-13",
+        "data": {
+            "data": {
+                "date": "2020-06-13",
+                "last_update": "2020-06-14 03:33:15",
+                "confirmed": 17293,
+                "confirmed_diff": 43,
+                "deaths": 927,
+                "deaths_diff": 3,
+                "recovered": 15458,
+                "recovered_diff": 96,
+                "active": 908,
+                "active_diff": -56,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-14",
+        "data": {
+            "data": {
+                "date": "2020-06-14",
+                "last_update": "2020-06-15 03:33:14",
+                "confirmed": 17369,
+                "confirmed_diff": 76,
+                "deaths": 927,
+                "deaths_diff": 0,
+                "recovered": 15514,
+                "recovered_diff": 56,
+                "active": 928,
+                "active_diff": 20,
+                "fatality_rate": 0.0534
+            }
+        }
+    },
+    {
+        "date": "2020-06-15",
+        "data": {
+            "data": {
+                "date": "2020-06-15",
+                "last_update": "2020-06-16 04:33:09",
+                "confirmed": 17439,
+                "confirmed_diff": 70,
+                "deaths": 929,
+                "deaths_diff": 2,
+                "recovered": 15567,
+                "recovered_diff": 53,
+                "active": 943,
+                "active_diff": 15,
+                "fatality_rate": 0.0533
+            }
+        }
+    },
+    {
+        "date": "2020-06-16",
+        "data": {
+            "data": {
+                "date": "2020-06-16",
+                "last_update": "2020-06-17 04:33:21",
+                "confirmed": 17484,
+                "confirmed_diff": 45,
+                "deaths": 934,
+                "deaths_diff": 5,
+                "recovered": 15652,
+                "recovered_diff": 85,
+                "active": 898,
+                "active_diff": -45,
+                "fatality_rate": 0.0534
+            }
+        }
+    },
+    {
+        "date": "2020-06-17",
+        "data": {
+            "data": {
+                "date": "2020-06-17",
+                "last_update": "2020-06-18 04:33:18",
+                "confirmed": 17530,
+                "confirmed_diff": 46,
+                "deaths": 935,
+                "deaths_diff": 1,
+                "recovered": 15753,
+                "recovered_diff": 101,
+                "active": 842,
+                "active_diff": -56,
+                "fatality_rate": 0.0533
+            }
+        }
+    },
+    {
+        "date": "2020-06-18",
+        "data": {
+            "data": {
+                "date": "2020-06-18",
+                "last_update": "2020-06-19 04:33:17",
+                "confirmed": 17588,
+                "confirmed_diff": 58,
+                "deaths": 935,
+                "deaths_diff": 0,
+                "recovered": 15753,
+                "recovered_diff": 0,
+                "active": 900,
+                "active_diff": 58,
+                "fatality_rate": 0.0532
+            }
+        }
+    },
+    {
+        "date": "2020-06-19",
+        "data": {
+            "data": {
+                "date": "2020-06-19",
+                "last_update": "2020-06-20 04:33:19",
+                "confirmed": 17658,
+                "confirmed_diff": 70,
+                "deaths": 951,
+                "deaths_diff": 16,
+                "recovered": 15844,
+                "recovered_diff": 91,
+                "active": 863,
+                "active_diff": -37,
+                "fatality_rate": 0.0539
+            }
+        }
+    },
+    {
+        "date": "2020-06-20",
+        "data": {
+            "data": {
+                "date": "2020-06-20",
+                "last_update": "2020-06-21 04:33:19",
+                "confirmed": 17725,
+                "confirmed_diff": 67,
+                "deaths": 955,
+                "deaths_diff": 4,
+                "recovered": 15948,
+                "recovered_diff": 104,
+                "active": 822,
+                "active_diff": -41,
+                "fatality_rate": 0.0539
+            }
+        }
+    },
+    {
+        "date": "2020-06-21",
+        "data": {
+            "data": {
+                "date": "2020-06-21",
+                "last_update": "2020-06-22 04:33:20",
+                "confirmed": 17780,
+                "confirmed_diff": 55,
+                "deaths": 955,
+                "deaths_diff": 0,
+                "recovered": 15948,
+                "recovered_diff": 0,
+                "active": 877,
+                "active_diff": 55,
+                "fatality_rate": 0.0537
+            }
+        }
+    },
+    {
+        "date": "2020-06-22",
+        "data": {
+            "data": {
+                "date": "2020-06-22",
+                "last_update": "2020-06-23 04:33:22",
+                "confirmed": 17820,
+                "confirmed_diff": 40,
+                "deaths": 955,
+                "deaths_diff": 0,
+                "recovered": 15957,
+                "recovered_diff": 9,
+                "active": 908,
+                "active_diff": 31,
+                "fatality_rate": 0.0536
+            }
+        }
+    },
+    {
+        "date": "2020-06-23",
+        "data": {
+            "data": {
+                "date": "2020-06-23",
+                "last_update": "2020-06-24 04:33:28",
+                "confirmed": 17879,
+                "confirmed_diff": 59,
+                "deaths": 965,
+                "deaths_diff": 10,
+                "recovered": 16096,
+                "recovered_diff": 139,
+                "active": 818,
+                "active_diff": -90,
+                "fatality_rate": 0.054
+            }
+        }
+    },
+    {
+        "date": "2020-06-24",
+        "data": {
+            "data": {
+                "date": "2020-06-24",
+                "last_update": "2020-06-25 05:26:54",
+                "confirmed": 17963,
+                "confirmed_diff": 84,
+                "deaths": 967,
+                "deaths_diff": 2,
+                "recovered": 16101,
+                "recovered_diff": 5,
+                "active": 895,
+                "active_diff": 77,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-25",
+        "data": {
+            "data": {
+                "date": "2020-06-25",
+                "last_update": "2020-06-26 04:33:43",
+                "confirmed": 18055,
+                "confirmed_diff": 92,
+                "deaths": 971,
+                "deaths_diff": 4,
+                "recovered": 16142,
+                "recovered_diff": 41,
+                "active": 942,
+                "active_diff": 47,
+                "fatality_rate": 0.0538
+            }
+        }
+    },
+    {
+        "date": "2020-06-26",
+        "data": {
+            "data": {
+                "date": "2020-06-26",
+                "last_update": "2020-06-27 04:33:35",
+                "confirmed": 18162,
+                "confirmed_diff": 107,
+                "deaths": 971,
+                "deaths_diff": 0,
+                "recovered": 16224,
+                "recovered_diff": 82,
+                "active": 967,
+                "active_diff": 25,
+                "fatality_rate": 0.0535
+            }
+        }
+    },
+    {
+        "date": "2020-06-27",
+        "data": {
+            "data": {
+                "date": "2020-06-27",
+                "last_update": "2020-06-28 04:34:04",
+                "confirmed": 18254,
+                "confirmed_diff": 92,
+                "deaths": 971,
+                "deaths_diff": 0,
+                "recovered": 16293,
+                "recovered_diff": 69,
+                "active": 990,
+                "active_diff": 23,
+                "fatality_rate": 0.0532
+            }
+        }
+    },
+    {
+        "date": "2020-06-28",
+        "data": {
+            "data": {
+                "date": "2020-06-28",
+                "last_update": "2020-06-29 04:33:44",
+                "confirmed": 18366,
+                "confirmed_diff": 112,
+                "deaths": 972,
+                "deaths_diff": 1,
+                "recovered": 16327,
+                "recovered_diff": 34,
+                "active": 1067,
+                "active_diff": 77,
+                "fatality_rate": 0.0529
+            }
+        }
+    },
+    {
+        "date": "2020-06-29",
+        "data": {
+            "data": {
+                "date": "2020-06-29",
+                "last_update": "2020-06-30 04:33:48",
+                "confirmed": 18476,
+                "confirmed_diff": 110,
+                "deaths": 972,
+                "deaths_diff": 0,
+                "recovered": 16388,
+                "recovered_diff": 61,
+                "active": 1116,
+                "active_diff": 49,
+                "fatality_rate": 0.0526
+            }
+        }
+    },
+    {
+        "date": "2020-06-30",
+        "data": {
+            "data": {
+                "date": "2020-06-30",
+                "last_update": "2020-07-01 04:33:52",
+                "confirmed": 18615,
+                "confirmed_diff": 139,
+                "deaths": 972,
+                "deaths_diff": 0,
+                "recovered": 16458,
+                "recovered_diff": 70,
+                "active": 1185,
+                "active_diff": 69,
+                "fatality_rate": 0.0522
+            }
+        }
+    },
+    {
+        "date": "2021-06-01",
+        "data": {
+            "data": {
+                "date": "2021-06-01",
+                "last_update": "2021-06-02 04:24:34",
+                "confirmed": 33287124,
+                "confirmed_diff": 22744,
+                "deaths": 595211,
+                "deaths_diff": 643,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32691913,
+                "active_diff": 22101,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-02",
+        "data": {
+            "data": {
+                "date": "2021-06-02",
+                "last_update": "2021-06-03 04:23:32",
+                "confirmed": 33307008,
+                "confirmed_diff": 19884,
+                "deaths": 595825,
+                "deaths_diff": 614,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32711183,
+                "active_diff": 19270,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-03",
+        "data": {
+            "data": {
+                "date": "2021-06-03",
+                "last_update": "2021-06-04 04:23:37",
+                "confirmed": 33326083,
+                "confirmed_diff": 19075,
+                "deaths": 596401,
+                "deaths_diff": 576,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32729682,
+                "active_diff": 18499,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-04",
+        "data": {
+            "data": {
+                "date": "2021-06-04",
+                "last_update": "2021-06-05 04:23:03",
+                "confirmed": 33343023,
+                "confirmed_diff": 16940,
+                "deaths": 597001,
+                "deaths_diff": 600,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32746022,
+                "active_diff": 16340,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "data": {
+            "data": {
+                "date": "2021-06-05",
+                "last_update": "2021-06-06 04:24:03",
+                "confirmed": 33357080,
+                "confirmed_diff": 14057,
+                "deaths": 597377,
+                "deaths_diff": 376,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32759703,
+                "active_diff": 13681,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-06",
+        "data": {
+            "data": {
+                "date": "2021-06-06",
+                "last_update": "2021-06-07 04:22:51",
+                "confirmed": 33362535,
+                "confirmed_diff": 5455,
+                "deaths": 597628,
+                "deaths_diff": 251,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32764907,
+                "active_diff": 5204,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-07",
+        "data": {
+            "data": {
+                "date": "2021-06-07",
+                "last_update": "2021-06-08 04:22:35",
+                "confirmed": 33377696,
+                "confirmed_diff": 15161,
+                "deaths": 597949,
+                "deaths_diff": 321,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32779747,
+                "active_diff": 14840,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-08",
+        "data": {
+            "data": {
+                "date": "2021-06-08",
+                "last_update": "2021-06-09 04:23:31",
+                "confirmed": 33391107,
+                "confirmed_diff": 13411,
+                "deaths": 598332,
+                "deaths_diff": 383,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32792775,
+                "active_diff": 13028,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-09",
+        "data": {
+            "data": {
+                "date": "2021-06-09",
+                "last_update": "2021-06-10 04:23:17",
+                "confirmed": 33414025,
+                "confirmed_diff": 22918,
+                "deaths": 598764,
+                "deaths_diff": 432,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32815261,
+                "active_diff": 22486,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-10",
+        "data": {
+            "data": {
+                "date": "2021-06-10",
+                "last_update": "2021-06-11 04:23:20",
+                "confirmed": 33426310,
+                "confirmed_diff": 12285,
+                "deaths": 598744,
+                "deaths_diff": -20,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32827566,
+                "active_diff": 12305,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-11",
+        "data": {
+            "data": {
+                "date": "2021-06-11",
+                "last_update": "2021-06-12 04:22:22",
+                "confirmed": 33437746,
+                "confirmed_diff": 11436,
+                "deaths": 599180,
+                "deaths_diff": 436,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32838566,
+                "active_diff": 11000,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-12",
+        "data": {
+            "data": {
+                "date": "2021-06-12",
+                "last_update": "2021-06-13 04:22:44",
+                "confirmed": 33457407,
+                "confirmed_diff": 19661,
+                "deaths": 599664,
+                "deaths_diff": 484,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32857743,
+                "active_diff": 19177,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-13",
+        "data": {
+            "data": {
+                "date": "2021-06-13",
+                "last_update": "2021-06-14 04:22:46",
+                "confirmed": 33461982,
+                "confirmed_diff": 4575,
+                "deaths": 599769,
+                "deaths_diff": 105,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32862213,
+                "active_diff": 4470,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-14",
+        "data": {
+            "data": {
+                "date": "2021-06-14",
+                "last_update": "2021-06-15 04:22:22",
+                "confirmed": 33474692,
+                "confirmed_diff": 12710,
+                "deaths": 599945,
+                "deaths_diff": 176,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32874747,
+                "active_diff": 12534,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-15",
+        "data": {
+            "data": {
+                "date": "2021-06-15",
+                "last_update": "2021-06-16 04:22:32",
+                "confirmed": 33485068,
+                "confirmed_diff": 10376,
+                "deaths": 600272,
+                "deaths_diff": 327,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32884796,
+                "active_diff": 10049,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-16",
+        "data": {
+            "data": {
+                "date": "2021-06-16",
+                "last_update": "2021-06-17 04:22:36",
+                "confirmed": 33498468,
+                "confirmed_diff": 13400,
+                "deaths": 600653,
+                "deaths_diff": 381,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32897815,
+                "active_diff": 13019,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-17",
+        "data": {
+            "data": {
+                "date": "2021-06-17",
+                "last_update": "2021-06-18 04:22:16",
+                "confirmed": 33508867,
+                "confirmed_diff": 10399,
+                "deaths": 600934,
+                "deaths_diff": 281,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32907933,
+                "active_diff": 10118,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-18",
+        "data": {
+            "data": {
+                "date": "2021-06-18",
+                "last_update": "2021-06-19 04:22:33",
+                "confirmed": 33516175,
+                "confirmed_diff": 7308,
+                "deaths": 601571,
+                "deaths_diff": 637,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32914604,
+                "active_diff": 6671,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-19",
+        "data": {
+            "data": {
+                "date": "2021-06-19",
+                "last_update": "2021-06-20 04:21:48",
+                "confirmed": 33537995,
+                "confirmed_diff": 21820,
+                "deaths": 601741,
+                "deaths_diff": 170,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32936254,
+                "active_diff": 21650,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-20",
+        "data": {
+            "data": {
+                "date": "2021-06-20",
+                "last_update": "2021-06-21 04:21:41",
+                "confirmed": 33541887,
+                "confirmed_diff": 3892,
+                "deaths": 601824,
+                "deaths_diff": 83,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32940063,
+                "active_diff": 3809,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-21",
+        "data": {
+            "data": {
+                "date": "2021-06-21",
+                "last_update": "2021-06-22 04:21:34",
+                "confirmed": 33554275,
+                "confirmed_diff": 12388,
+                "deaths": 602092,
+                "deaths_diff": 268,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32952183,
+                "active_diff": 12120,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-22",
+        "data": {
+            "data": {
+                "date": "2021-06-22",
+                "last_update": "2021-06-23 04:21:46",
+                "confirmed": 33564802,
+                "confirmed_diff": 10527,
+                "deaths": 602459,
+                "deaths_diff": 367,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32962343,
+                "active_diff": 10160,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-23",
+        "data": {
+            "data": {
+                "date": "2021-06-23",
+                "last_update": "2021-06-24 04:21:55",
+                "confirmed": 33577651,
+                "confirmed_diff": 12849,
+                "deaths": 602837,
+                "deaths_diff": 378,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32974814,
+                "active_diff": 12471,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-24",
+        "data": {
+            "data": {
+                "date": "2021-06-24",
+                "last_update": "2021-06-25 04:21:33",
+                "confirmed": 33590481,
+                "confirmed_diff": 12830,
+                "deaths": 603178,
+                "deaths_diff": 341,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32987303,
+                "active_diff": 12489,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-25",
+        "data": {
+            "data": {
+                "date": "2021-06-25",
+                "last_update": "2021-06-26 04:21:43",
+                "confirmed": 33603148,
+                "confirmed_diff": 12667,
+                "deaths": 603527,
+                "deaths_diff": 349,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32999621,
+                "active_diff": 12318,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-26",
+        "data": {
+            "data": {
+                "date": "2021-06-26",
+                "last_update": "2021-06-27 04:21:39",
+                "confirmed": 33621348,
+                "confirmed_diff": 18200,
+                "deaths": 603886,
+                "deaths_diff": 359,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 33017462,
+                "active_diff": 17841,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-27",
+        "data": {
+            "data": {
+                "date": "2021-06-27",
+                "last_update": "2021-06-28 04:21:29",
+                "confirmed": 33624983,
+                "confirmed_diff": 3635,
+                "deaths": 603966,
+                "deaths_diff": 80,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 33021017,
+                "active_diff": 3555,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-28",
+        "data": {
+            "data": {
+                "date": "2021-06-28",
+                "last_update": "2021-06-29 04:21:28",
+                "confirmed": 33640493,
+                "confirmed_diff": 15510,
+                "deaths": 604115,
+                "deaths_diff": 149,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 33036378,
+                "active_diff": 15361,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-29",
+        "data": {
+            "data": {
+                "date": "2021-06-29",
+                "last_update": "2021-06-30 04:21:41",
+                "confirmed": 33652098,
+                "confirmed_diff": 11605,
+                "deaths": 604474,
+                "deaths_diff": 359,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 33047624,
+                "active_diff": 11246,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-30",
+        "data": {
+            "data": {
+                "date": "2021-06-30",
+                "last_update": "2021-07-01 04:21:19",
+                "confirmed": 33664894,
+                "confirmed_diff": 12796,
+                "deaths": 604714,
+                "deaths_diff": 240,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 33060180,
+                "active_diff": 12556,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-01",
+        "data": {
+            "data": {
+                "date": "2021-06-01",
+                "last_update": "2021-06-02 04:24:34",
+                "confirmed": 103045,
+                "confirmed_diff": 31,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97788,
+                "recovered_diff": 18,
+                "active": 411,
+                "active_diff": 13,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-02",
+        "data": {
+            "data": {
+                "date": "2021-06-02",
+                "last_update": "2021-06-03 04:23:32",
+                "confirmed": 103069,
+                "confirmed_diff": 24,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97795,
+                "recovered_diff": 7,
+                "active": 428,
+                "active_diff": 17,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-03",
+        "data": {
+            "data": {
+                "date": "2021-06-03",
+                "last_update": "2021-06-04 04:23:37",
+                "confirmed": 103094,
+                "confirmed_diff": 25,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97813,
+                "recovered_diff": 18,
+                "active": 435,
+                "active_diff": 7,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-04",
+        "data": {
+            "data": {
+                "date": "2021-06-04",
+                "last_update": "2021-06-05 04:23:03",
+                "confirmed": 103119,
+                "confirmed_diff": 25,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97825,
+                "recovered_diff": 12,
+                "active": 448,
+                "active_diff": 13,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "data": {
+            "data": {
+                "date": "2021-06-05",
+                "last_update": "2021-06-06 04:24:03",
+                "confirmed": 103150,
+                "confirmed_diff": 31,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97854,
+                "recovered_diff": 29,
+                "active": 450,
+                "active_diff": 2,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-06",
+        "data": {
+            "data": {
+                "date": "2021-06-06",
+                "last_update": "2021-06-07 04:22:51",
+                "confirmed": 103176,
+                "confirmed_diff": 26,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97863,
+                "recovered_diff": 9,
+                "active": 467,
+                "active_diff": 17,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-07",
+        "data": {
+            "data": {
+                "date": "2021-06-07",
+                "last_update": "2021-06-08 04:22:35",
+                "confirmed": 103216,
+                "confirmed_diff": 40,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97890,
+                "recovered_diff": 27,
+                "active": 480,
+                "active_diff": 13,
+                "fatality_rate": 0.047
+            }
+        }
+    },
+    {
+        "date": "2021-06-08",
+        "data": {
+            "data": {
+                "date": "2021-06-08",
+                "last_update": "2021-06-09 04:23:31",
+                "confirmed": 103235,
+                "confirmed_diff": 19,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97902,
+                "recovered_diff": 12,
+                "active": 487,
+                "active_diff": 7,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-09",
+        "data": {
+            "data": {
+                "date": "2021-06-09",
+                "last_update": "2021-06-10 04:23:17",
+                "confirmed": 103261,
+                "confirmed_diff": 26,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97923,
+                "recovered_diff": 21,
+                "active": 492,
+                "active_diff": 5,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-10",
+        "data": {
+            "data": {
+                "date": "2021-06-10",
+                "last_update": "2021-06-11 04:23:20",
+                "confirmed": 103285,
+                "confirmed_diff": 24,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97938,
+                "recovered_diff": 15,
+                "active": 501,
+                "active_diff": 9,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-11",
+        "data": {
+            "data": {
+                "date": "2021-06-11",
+                "last_update": "2021-06-12 04:22:22",
+                "confirmed": 103320,
+                "confirmed_diff": 35,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97956,
+                "recovered_diff": 18,
+                "active": 518,
+                "active_diff": 17,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-12",
+        "data": {
+            "data": {
+                "date": "2021-06-12",
+                "last_update": "2021-06-13 04:22:44",
+                "confirmed": 103357,
+                "confirmed_diff": 37,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97979,
+                "recovered_diff": 23,
+                "active": 532,
+                "active_diff": 14,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-13",
+        "data": {
+            "data": {
+                "date": "2021-06-13",
+                "last_update": "2021-06-14 04:22:46",
+                "confirmed": 103380,
+                "confirmed_diff": 23,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 97993,
+                "recovered_diff": 14,
+                "active": 541,
+                "active_diff": 9,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-14",
+        "data": {
+            "data": {
+                "date": "2021-06-14",
+                "last_update": "2021-06-15 04:22:22",
+                "confirmed": 103401,
+                "confirmed_diff": 21,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98003,
+                "recovered_diff": 10,
+                "active": 552,
+                "active_diff": 11,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-15",
+        "data": {
+            "data": {
+                "date": "2021-06-15",
+                "last_update": "2021-06-16 04:22:32",
+                "confirmed": 103424,
+                "confirmed_diff": 23,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98020,
+                "recovered_diff": 17,
+                "active": 558,
+                "active_diff": 6,
+                "fatality_rate": 0.0469
+            }
+        }
+    },
+    {
+        "date": "2021-06-16",
+        "data": {
+            "data": {
+                "date": "2021-06-16",
+                "last_update": "2021-06-17 04:22:36",
+                "confirmed": 103444,
+                "confirmed_diff": 20,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98036,
+                "recovered_diff": 16,
+                "active": 562,
+                "active_diff": 4,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-17",
+        "data": {
+            "data": {
+                "date": "2021-06-17",
+                "last_update": "2021-06-18 04:22:16",
+                "confirmed": 103467,
+                "confirmed_diff": 23,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98051,
+                "recovered_diff": 15,
+                "active": 570,
+                "active_diff": 8,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-18",
+        "data": {
+            "data": {
+                "date": "2021-06-18",
+                "last_update": "2021-06-19 04:22:33",
+                "confirmed": 103501,
+                "confirmed_diff": 34,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98084,
+                "recovered_diff": 33,
+                "active": 571,
+                "active_diff": 1,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-19",
+        "data": {
+            "data": {
+                "date": "2021-06-19",
+                "last_update": "2021-06-20 04:21:48",
+                "confirmed": 103525,
+                "confirmed_diff": 24,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98104,
+                "recovered_diff": 20,
+                "active": 575,
+                "active_diff": 4,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-20",
+        "data": {
+            "data": {
+                "date": "2021-06-20",
+                "last_update": "2021-06-21 04:21:41",
+                "confirmed": 103543,
+                "confirmed_diff": 18,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98114,
+                "recovered_diff": 10,
+                "active": 583,
+                "active_diff": 8,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-21",
+        "data": {
+            "data": {
+                "date": "2021-06-21",
+                "last_update": "2021-06-22 04:21:34",
+                "confirmed": 103571,
+                "confirmed_diff": 28,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98148,
+                "recovered_diff": 34,
+                "active": 577,
+                "active_diff": -6,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-22",
+        "data": {
+            "data": {
+                "date": "2021-06-22",
+                "last_update": "2021-06-23 04:21:46",
+                "confirmed": 103602,
+                "confirmed_diff": 31,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98172,
+                "recovered_diff": 24,
+                "active": 584,
+                "active_diff": 7,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-23",
+        "data": {
+            "data": {
+                "date": "2021-06-23",
+                "last_update": "2021-06-24 04:21:55",
+                "confirmed": 103620,
+                "confirmed_diff": 18,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98211,
+                "recovered_diff": 39,
+                "active": 563,
+                "active_diff": -21,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-24",
+        "data": {
+            "data": {
+                "date": "2021-06-24",
+                "last_update": "2021-06-25 04:21:33",
+                "confirmed": 103651,
+                "confirmed_diff": 31,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98243,
+                "recovered_diff": 32,
+                "active": 562,
+                "active_diff": -1,
+                "fatality_rate": 0.0468
+            }
+        }
+    },
+    {
+        "date": "2021-06-25",
+        "data": {
+            "data": {
+                "date": "2021-06-25",
+                "last_update": "2021-06-26 04:21:43",
+                "confirmed": 103680,
+                "confirmed_diff": 29,
+                "deaths": 4847,
+                "deaths_diff": 1,
+                "recovered": 98280,
+                "recovered_diff": 37,
+                "active": 553,
+                "active_diff": -9,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-26",
+        "data": {
+            "data": {
+                "date": "2021-06-26",
+                "last_update": "2021-06-27 04:21:39",
+                "confirmed": 103696,
+                "confirmed_diff": 16,
+                "deaths": 4846,
+                "deaths_diff": -1,
+                "recovered": 98309,
+                "recovered_diff": 29,
+                "active": 541,
+                "active_diff": -12,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-27",
+        "data": {
+            "data": {
+                "date": "2021-06-27",
+                "last_update": "2021-06-28 04:21:29",
+                "confirmed": 103724,
+                "confirmed_diff": 28,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98331,
+                "recovered_diff": 22,
+                "active": 547,
+                "active_diff": 6,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-28",
+        "data": {
+            "data": {
+                "date": "2021-06-28",
+                "last_update": "2021-06-29 04:21:28",
+                "confirmed": 103745,
+                "confirmed_diff": 21,
+                "deaths": 4846,
+                "deaths_diff": 0,
+                "recovered": 98353,
+                "recovered_diff": 22,
+                "active": 546,
+                "active_diff": -1,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-29",
+        "data": {
+            "data": {
+                "date": "2021-06-29",
+                "last_update": "2021-06-30 04:21:41",
+                "confirmed": 103755,
+                "confirmed_diff": 10,
+                "deaths": 4847,
+                "deaths_diff": 1,
+                "recovered": 98368,
+                "recovered_diff": 15,
+                "active": 540,
+                "active_diff": -6,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-30",
+        "data": {
+            "data": {
+                "date": "2021-06-30",
+                "last_update": "2021-07-01 04:21:19",
+                "confirmed": 103769,
+                "confirmed_diff": 14,
+                "deaths": 4847,
+                "deaths_diff": 0,
+                "recovered": 98399,
+                "recovered_diff": 31,
+                "active": 523,
+                "active_diff": -17,
+                "fatality_rate": 0.0467
+            }
+        }
+    },
+    {
+        "date": "2021-06-01",
+        "data": {
+            "data": {
+                "date": "2021-06-01",
+                "last_update": "2021-06-02 04:24:34",
+                "confirmed": 749829,
+                "confirmed_diff": 2641,
+                "deaths": 13107,
+                "deaths_diff": 101,
+                "recovered": 680465,
+                "recovered_diff": 4744,
+                "active": 56257,
+                "active_diff": -2204,
+                "fatality_rate": 0.0175
+            }
+        }
+    },
+    {
+        "date": "2021-06-02",
+        "data": {
+            "data": {
+                "date": "2021-06-02",
+                "last_update": "2021-06-03 04:23:32",
+                "confirmed": 752865,
+                "confirmed_diff": 3036,
+                "deaths": 13220,
+                "deaths_diff": 113,
+                "recovered": 685209,
+                "recovered_diff": 4744,
+                "active": 54436,
+                "active_diff": -1821,
+                "fatality_rate": 0.0176
+            }
+        }
+    },
+    {
+        "date": "2021-06-03",
+        "data": {
+            "data": {
+                "date": "2021-06-03",
+                "last_update": "2021-06-04 04:23:37",
+                "confirmed": 755713,
+                "confirmed_diff": 2848,
+                "deaths": 13331,
+                "deaths_diff": 111,
+                "recovered": 690467,
+                "recovered_diff": 5258,
+                "active": 51915,
+                "active_diff": -2521,
+                "fatality_rate": 0.0176
+            }
+        }
+    },
+    {
+        "date": "2021-06-04",
+        "data": {
+            "data": {
+                "date": "2021-06-04",
+                "last_update": "2021-06-05 04:23:03",
+                "confirmed": 758290,
+                "confirmed_diff": 2577,
+                "deaths": 13417,
+                "deaths_diff": 86,
+                "recovered": 694854,
+                "recovered_diff": 4387,
+                "active": 50019,
+                "active_diff": -1896,
+                "fatality_rate": 0.0177
+            }
+        }
+    },
+    {
+        "date": "2021-06-05",
+        "data": {
+            "data": {
+                "date": "2021-06-05",
+                "last_update": "2021-06-06 04:24:03",
+                "confirmed": 760953,
+                "confirmed_diff": 2663,
+                "deaths": 13481,
+                "deaths_diff": 64,
+                "recovered": 699585,
+                "recovered_diff": 4731,
+                "active": 47887,
+                "active_diff": -2132,
+                "fatality_rate": 0.0177
+            }
+        }
+    },
+    {
+        "date": "2021-06-06",
+        "data": {
+            "data": {
+                "date": "2021-06-06",
+                "last_update": "2021-06-07 04:22:51",
+                "confirmed": 762980,
+                "confirmed_diff": 2027,
+                "deaths": 13531,
+                "deaths_diff": 50,
+                "recovered": 703369,
+                "recovered_diff": 3784,
+                "active": 46080,
+                "active_diff": -1807,
+                "fatality_rate": 0.0177
+            }
+        }
+    },
+    {
+        "date": "2021-06-07",
+        "data": {
+            "data": {
+                "date": "2021-06-07",
+                "last_update": "2021-06-08 04:22:35",
+                "confirmed": 764185,
+                "confirmed_diff": 1205,
+                "deaths": 13606,
+                "deaths_diff": 75,
+                "recovered": 706488,
+                "recovered_diff": 3119,
+                "active": 44091,
+                "active_diff": -1989,
+                "fatality_rate": 0.0178
+            }
+        }
+    },
+    {
+        "date": "2021-06-08",
+        "data": {
+            "data": {
+                "date": "2021-06-08",
+                "last_update": "2021-06-09 04:23:31",
+                "confirmed": 766068,
+                "confirmed_diff": 1883,
+                "deaths": 13705,
+                "deaths_diff": 99,
+                "recovered": 710060,
+                "recovered_diff": 3572,
+                "active": 42303,
+                "active_diff": -1788,
+                "fatality_rate": 0.0179
+            }
+        }
+    },
+    {
+        "date": "2021-06-09",
+        "data": {
+            "data": {
+                "date": "2021-06-09",
+                "last_update": "2021-06-10 04:23:17",
+                "confirmed": 768313,
+                "confirmed_diff": 2245,
+                "deaths": 13801,
+                "deaths_diff": 96,
+                "recovered": 713651,
+                "recovered_diff": 3591,
+                "active": 40861,
+                "active_diff": -1442,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-10",
+        "data": {
+            "data": {
+                "date": "2021-06-10",
+                "last_update": "2021-06-11 04:23:20",
+                "confirmed": 770357,
+                "confirmed_diff": 2044,
+                "deaths": 13872,
+                "deaths_diff": 71,
+                "recovered": 717726,
+                "recovered_diff": 4075,
+                "active": 38759,
+                "active_diff": -2102,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-11",
+        "data": {
+            "data": {
+                "date": "2021-06-11",
+                "last_update": "2021-06-12 04:22:22",
+                "confirmed": 772293,
+                "confirmed_diff": 1936,
+                "deaths": 13936,
+                "deaths_diff": 64,
+                "recovered": 721104,
+                "recovered_diff": 3378,
+                "active": 37253,
+                "active_diff": -1506,
+                "fatality_rate": 0.018
+            }
+        }
+    },
+    {
+        "date": "2021-06-12",
+        "data": {
+            "data": {
+                "date": "2021-06-12",
+                "last_update": "2021-06-13 04:22:44",
+                "confirmed": 774240,
+                "confirmed_diff": 1947,
+                "deaths": 13991,
+                "deaths_diff": 55,
+                "recovered": 724648,
+                "recovered_diff": 3544,
+                "active": 35601,
+                "active_diff": -1652,
+                "fatality_rate": 0.0181
+            }
+        }
+    },
+    {
+        "date": "2021-06-13",
+        "data": {
+            "data": {
+                "date": "2021-06-13",
+                "last_update": "2021-06-14 04:22:46",
+                "confirmed": 775624,
+                "confirmed_diff": 1384,
+                "deaths": 14023,
+                "deaths_diff": 32,
+                "recovered": 727574,
+                "recovered_diff": 2926,
+                "active": 34027,
+                "active_diff": -1574,
+                "fatality_rate": 0.0181
+            }
+        }
+    },
+    {
+        "date": "2021-06-14",
+        "data": {
+            "data": {
+                "date": "2021-06-14",
+                "last_update": "2021-06-15 04:22:22",
+                "confirmed": 776565,
+                "confirmed_diff": 941,
+                "deaths": 14083,
+                "deaths_diff": 60,
+                "recovered": 730290,
+                "recovered_diff": 2716,
+                "active": 32192,
+                "active_diff": -1835,
+                "fatality_rate": 0.0181
+            }
+        }
+    },
+    {
+        "date": "2021-06-15",
+        "data": {
+            "data": {
+                "date": "2021-06-15",
+                "last_update": "2021-06-16 04:22:32",
+                "confirmed": 777979,
+                "confirmed_diff": 1414,
+                "deaths": 14150,
+                "deaths_diff": 67,
+                "recovered": 733160,
+                "recovered_diff": 2870,
+                "active": 30669,
+                "active_diff": -1523,
+                "fatality_rate": 0.0182
+            }
+        }
+    },
+    {
+        "date": "2021-06-16",
+        "data": {
+            "data": {
+                "date": "2021-06-16",
+                "last_update": "2021-06-17 04:22:36",
+                "confirmed": 779696,
+                "confirmed_diff": 1717,
+                "deaths": 14230,
+                "deaths_diff": 80,
+                "recovered": 736785,
+                "recovered_diff": 3625,
+                "active": 28681,
+                "active_diff": -1988,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-17",
+        "data": {
+            "data": {
+                "date": "2021-06-17",
+                "last_update": "2021-06-18 04:22:16",
+                "confirmed": 781241,
+                "confirmed_diff": 1545,
+                "deaths": 14277,
+                "deaths_diff": 47,
+                "recovered": 740057,
+                "recovered_diff": 3272,
+                "active": 26907,
+                "active_diff": -1774,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-18",
+        "data": {
+            "data": {
+                "date": "2021-06-18",
+                "last_update": "2021-06-19 04:22:33",
+                "confirmed": 782877,
+                "confirmed_diff": 1636,
+                "deaths": 14325,
+                "deaths_diff": 48,
+                "recovered": 742692,
+                "recovered_diff": 2635,
+                "active": 25860,
+                "active_diff": -1047,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-19",
+        "data": {
+            "data": {
+                "date": "2021-06-19",
+                "last_update": "2021-06-20 04:21:48",
+                "confirmed": 784384,
+                "confirmed_diff": 1507,
+                "deaths": 14353,
+                "deaths_diff": 28,
+                "recovered": 746275,
+                "recovered_diff": 3583,
+                "active": 23756,
+                "active_diff": -2104,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-20",
+        "data": {
+            "data": {
+                "date": "2021-06-20",
+                "last_update": "2021-06-21 04:21:41",
+                "confirmed": 785702,
+                "confirmed_diff": 1318,
+                "deaths": 14373,
+                "deaths_diff": 20,
+                "recovered": 748475,
+                "recovered_diff": 2200,
+                "active": 22854,
+                "active_diff": -902,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-21",
+        "data": {
+            "data": {
+                "date": "2021-06-21",
+                "last_update": "2021-06-22 04:21:34",
+                "confirmed": 786566,
+                "confirmed_diff": 864,
+                "deaths": 14408,
+                "deaths_diff": 35,
+                "recovered": 750274,
+                "recovered_diff": 1799,
+                "active": 21884,
+                "active_diff": -970,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-22",
+        "data": {
+            "data": {
+                "date": "2021-06-22",
+                "last_update": "2021-06-23 04:21:46",
+                "confirmed": 788009,
+                "confirmed_diff": 1443,
+                "deaths": 14451,
+                "deaths_diff": 43,
+                "recovered": 752271,
+                "recovered_diff": 1997,
+                "active": 21287,
+                "active_diff": -597,
+                "fatality_rate": 0.0183
+            }
+        }
+    },
+    {
+        "date": "2021-06-23",
+        "data": {
+            "data": {
+                "date": "2021-06-23",
+                "last_update": "2021-06-24 04:21:55",
+                "confirmed": 789787,
+                "confirmed_diff": 1778,
+                "deaths": 14509,
+                "deaths_diff": 58,
+                "recovered": 754178,
+                "recovered_diff": 1907,
+                "active": 21100,
+                "active_diff": -187,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-24",
+        "data": {
+            "data": {
+                "date": "2021-06-24",
+                "last_update": "2021-06-25 04:21:33",
+                "confirmed": 791452,
+                "confirmed_diff": 1665,
+                "deaths": 14551,
+                "deaths_diff": 42,
+                "recovered": 756137,
+                "recovered_diff": 1959,
+                "active": 20764,
+                "active_diff": -336,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-25",
+        "data": {
+            "data": {
+                "date": "2021-06-25",
+                "last_update": "2021-06-26 04:21:43",
+                "confirmed": 793179,
+                "confirmed_diff": 1727,
+                "deaths": 14582,
+                "deaths_diff": 31,
+                "recovered": 758017,
+                "recovered_diff": 1880,
+                "active": 20580,
+                "active_diff": -184,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-26",
+        "data": {
+            "data": {
+                "date": "2021-06-26",
+                "last_update": "2021-06-27 04:21:39",
+                "confirmed": 794805,
+                "confirmed_diff": 1626,
+                "deaths": 14611,
+                "deaths_diff": 29,
+                "recovered": 760087,
+                "recovered_diff": 2070,
+                "active": 20107,
+                "active_diff": -473,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-27",
+        "data": {
+            "data": {
+                "date": "2021-06-27",
+                "last_update": "2021-06-28 04:21:29",
+                "confirmed": 796077,
+                "confirmed_diff": 1272,
+                "deaths": 14621,
+                "deaths_diff": 10,
+                "recovered": 761756,
+                "recovered_diff": 1669,
+                "active": 19700,
+                "active_diff": -407,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-28",
+        "data": {
+            "data": {
+                "date": "2021-06-28",
+                "last_update": "2021-06-29 04:21:28",
+                "confirmed": 797084,
+                "confirmed_diff": 1007,
+                "deaths": 14659,
+                "deaths_diff": 38,
+                "recovered": 763208,
+                "recovered_diff": 1452,
+                "active": 19217,
+                "active_diff": -483,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-29",
+        "data": {
+            "data": {
+                "date": "2021-06-29",
+                "last_update": "2021-06-30 04:21:41",
+                "confirmed": 798485,
+                "confirmed_diff": 1401,
+                "deaths": 14689,
+                "deaths_diff": 30,
+                "recovered": 764757,
+                "recovered_diff": 1549,
+                "active": 19039,
+                "active_diff": -178,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2021-06-30",
+        "data": {
+            "data": {
+                "date": "2021-06-30",
+                "last_update": "2021-07-01 04:21:19",
+                "confirmed": 800305,
+                "confirmed_diff": 1820,
+                "deaths": 14730,
+                "deaths_diff": 41,
+                "recovered": 766460,
+                "recovered_diff": 1703,
+                "active": 19115,
+                "active_diff": 76,
+                "fatality_rate": 0.0184
+            }
+        }
+    },
+    {
+        "date": "2022-06-01",
+        "data": {
+            "data": {
+                "date": "2022-06-01",
+                "last_update": "2022-06-02 14:20:54",
+                "confirmed": 84449947,
+                "confirmed_diff": 239139,
+                "deaths": 1007719,
+                "deaths_diff": 687,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83442228,
+                "active_diff": 238452,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-02",
+        "data": {
+            "data": {
+                "date": "2022-06-02",
+                "last_update": "2022-06-03 04:20:58",
+                "confirmed": 84545475,
+                "confirmed_diff": 95528,
+                "deaths": 1008031,
+                "deaths_diff": 312,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83537444,
+                "active_diff": 95216,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-03",
+        "data": {
+            "data": {
+                "date": "2022-06-03",
+                "last_update": "2022-06-04 04:20:58",
+                "confirmed": 84724329,
+                "confirmed_diff": 178854,
+                "deaths": 1008422,
+                "deaths_diff": 391,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83715907,
+                "active_diff": 178463,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "data": {
+            "data": {
+                "date": "2022-06-04",
+                "last_update": "2022-06-05 04:20:55",
+                "confirmed": 84748884,
+                "confirmed_diff": 24555,
+                "deaths": 1008567,
+                "deaths_diff": 145,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83740317,
+                "active_diff": 24410,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-05",
+        "data": {
+            "data": {
+                "date": "2022-06-05",
+                "last_update": "2022-06-06 04:20:57",
+                "confirmed": 84762022,
+                "confirmed_diff": 13138,
+                "deaths": 1008585,
+                "deaths_diff": 18,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83753437,
+                "active_diff": 13120,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-06",
+        "data": {
+            "data": {
+                "date": "2022-06-06",
+                "last_update": "2022-06-07 04:21:08",
+                "confirmed": 84882287,
+                "confirmed_diff": 120265,
+                "deaths": 1008857,
+                "deaths_diff": 272,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83873430,
+                "active_diff": 119993,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-07",
+        "data": {
+            "data": {
+                "date": "2022-06-07",
+                "last_update": "2022-06-08 04:20:55",
+                "confirmed": 85003945,
+                "confirmed_diff": 121658,
+                "deaths": 1009326,
+                "deaths_diff": 469,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 83994619,
+                "active_diff": 121189,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-08",
+        "data": {
+            "data": {
+                "date": "2022-06-08",
+                "last_update": "2022-06-09 04:20:54",
+                "confirmed": 85214036,
+                "confirmed_diff": 210091,
+                "deaths": 1010520,
+                "deaths_diff": 1194,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84203516,
+                "active_diff": 208897,
+                "fatality_rate": 0.0119
+            }
+        }
+    },
+    {
+        "date": "2022-06-09",
+        "data": {
+            "data": {
+                "date": "2022-06-09",
+                "last_update": "2022-06-10 04:20:55",
+                "confirmed": 85329656,
+                "confirmed_diff": 115620,
+                "deaths": 1010805,
+                "deaths_diff": 285,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84318851,
+                "active_diff": 115335,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-10",
+        "data": {
+            "data": {
+                "date": "2022-06-10",
+                "last_update": "2022-06-11 04:21:01",
+                "confirmed": 85468816,
+                "confirmed_diff": 139160,
+                "deaths": 1011164,
+                "deaths_diff": 359,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84457652,
+                "active_diff": 138801,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-11",
+        "data": {
+            "data": {
+                "date": "2022-06-11",
+                "last_update": "2022-06-12 04:20:53",
+                "confirmed": 85500976,
+                "confirmed_diff": 32160,
+                "deaths": 1011260,
+                "deaths_diff": 96,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84489716,
+                "active_diff": 32064,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-12",
+        "data": {
+            "data": {
+                "date": "2022-06-12",
+                "last_update": "2022-06-13 04:21:14",
+                "confirmed": 85515795,
+                "confirmed_diff": 14819,
+                "deaths": 1011275,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84504520,
+                "active_diff": 14804,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-13",
+        "data": {
+            "data": {
+                "date": "2022-06-13",
+                "last_update": "2022-06-14 04:20:52",
+                "confirmed": 85632808,
+                "confirmed_diff": 117013,
+                "deaths": 1011543,
+                "deaths_diff": 268,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84621265,
+                "active_diff": 116745,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-14",
+        "data": {
+            "data": {
+                "date": "2022-06-14",
+                "last_update": "2022-06-15 04:20:54",
+                "confirmed": 85758638,
+                "confirmed_diff": 125830,
+                "deaths": 1011925,
+                "deaths_diff": 382,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84746713,
+                "active_diff": 125448,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-15",
+        "data": {
+            "data": {
+                "date": "2022-06-15",
+                "last_update": "2022-06-16 04:20:55",
+                "confirmed": 85941735,
+                "confirmed_diff": 183097,
+                "deaths": 1012607,
+                "deaths_diff": 682,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 84929128,
+                "active_diff": 182415,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-16",
+        "data": {
+            "data": {
+                "date": "2022-06-16",
+                "last_update": "2022-06-17 04:20:56",
+                "confirmed": 86058180,
+                "confirmed_diff": 116445,
+                "deaths": 1012647,
+                "deaths_diff": 40,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85045533,
+                "active_diff": 116405,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-17",
+        "data": {
+            "data": {
+                "date": "2022-06-17",
+                "last_update": "2022-06-18 04:21:10",
+                "confirmed": 86216418,
+                "confirmed_diff": 158238,
+                "deaths": 1013358,
+                "deaths_diff": 711,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85203060,
+                "active_diff": 157527,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-18",
+        "data": {
+            "data": {
+                "date": "2022-06-18",
+                "last_update": "2022-06-19 04:20:51",
+                "confirmed": 86230982,
+                "confirmed_diff": 14564,
+                "deaths": 1013377,
+                "deaths_diff": 19,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85217605,
+                "active_diff": 14545,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-19",
+        "data": {
+            "data": {
+                "date": "2022-06-19",
+                "last_update": "2022-06-20 04:21:01",
+                "confirmed": 86246101,
+                "confirmed_diff": 15119,
+                "deaths": 1013413,
+                "deaths_diff": 36,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85232688,
+                "active_diff": 15083,
+                "fatality_rate": 0.0118
+            }
+        }
+    },
+    {
+        "date": "2022-06-20",
+        "data": {
+            "data": {
+                "date": "2022-06-20",
+                "last_update": "2022-06-21 04:20:56",
+                "confirmed": 86297081,
+                "confirmed_diff": 50980,
+                "deaths": 1013493,
+                "deaths_diff": 80,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85283588,
+                "active_diff": 50900,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-21",
+        "data": {
+            "data": {
+                "date": "2022-06-21",
+                "last_update": "2022-06-22 04:20:54",
+                "confirmed": 86452232,
+                "confirmed_diff": 155151,
+                "deaths": 1013975,
+                "deaths_diff": 482,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85438257,
+                "active_diff": 154669,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-22",
+        "data": {
+            "data": {
+                "date": "2022-06-22",
+                "last_update": "2022-06-23 04:20:55",
+                "confirmed": 86636306,
+                "confirmed_diff": 184074,
+                "deaths": 1014835,
+                "deaths_diff": 860,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85621471,
+                "active_diff": 183214,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-23",
+        "data": {
+            "data": {
+                "date": "2022-06-23",
+                "last_update": "2022-06-24 04:20:58",
+                "confirmed": 86757621,
+                "confirmed_diff": 121315,
+                "deaths": 1015342,
+                "deaths_diff": 507,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85742279,
+                "active_diff": 120808,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-24",
+        "data": {
+            "data": {
+                "date": "2022-06-24",
+                "last_update": "2022-06-25 04:20:57",
+                "confirmed": 86909716,
+                "confirmed_diff": 152095,
+                "deaths": 1015789,
+                "deaths_diff": 447,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85893927,
+                "active_diff": 151648,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-25",
+        "data": {
+            "data": {
+                "date": "2022-06-25",
+                "last_update": "2022-06-26 04:21:02",
+                "confirmed": 86949088,
+                "confirmed_diff": 39372,
+                "deaths": 1015933,
+                "deaths_diff": 144,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85933155,
+                "active_diff": 39228,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-26",
+        "data": {
+            "data": {
+                "date": "2022-06-26",
+                "last_update": "2022-06-27 04:21:00",
+                "confirmed": 86967639,
+                "confirmed_diff": 18551,
+                "deaths": 1015938,
+                "deaths_diff": 5,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 85951701,
+                "active_diff": 18546,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-27",
+        "data": {
+            "data": {
+                "date": "2022-06-27",
+                "last_update": "2022-06-28 04:20:58",
+                "confirmed": 87092233,
+                "confirmed_diff": 124594,
+                "deaths": 1016208,
+                "deaths_diff": 270,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 86076025,
+                "active_diff": 124324,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-28",
+        "data": {
+            "data": {
+                "date": "2022-06-28",
+                "last_update": "2022-06-29 04:20:59",
+                "confirmed": 87217673,
+                "confirmed_diff": 125440,
+                "deaths": 1016757,
+                "deaths_diff": 549,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 86200916,
+                "active_diff": 124891,
+                "fatality_rate": 0.0117
+            }
+        }
+    },
+    {
+        "date": "2022-06-29",
+        "data": {
+            "data": {
+                "date": "2022-06-29",
+                "last_update": "2022-06-30 04:21:01",
+                "confirmed": 87410874,
+                "confirmed_diff": 193201,
+                "deaths": 1017467,
+                "deaths_diff": 710,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 86393407,
+                "active_diff": 192491,
+                "fatality_rate": 0.0116
+            }
+        }
+    },
+    {
+        "date": "2022-06-30",
+        "data": {
+            "data": {
+                "date": "2022-06-30",
+                "last_update": "2022-07-01 04:21:10",
+                "confirmed": 87623593,
+                "confirmed_diff": 212719,
+                "deaths": 1017266,
+                "deaths_diff": -201,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 86606327,
+                "active_diff": 212920,
+                "fatality_rate": 0.0116
+            }
+        }
+    },
+    {
+        "date": "2022-06-01",
+        "data": {
+            "data": {
+                "date": "2022-06-01",
+                "last_update": "2022-06-02 14:20:54",
+                "confirmed": 2429730,
+                "confirmed_diff": 2798,
+                "deaths": 14605,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2415125,
+                "active_diff": 2797,
+                "fatality_rate": 0.006
+            }
+        }
+    },
+    {
+        "date": "2022-06-02",
+        "data": {
+            "data": {
+                "date": "2022-06-02",
+                "last_update": "2022-06-03 04:20:58",
+                "confirmed": 2097925,
+                "confirmed_diff": -331805,
+                "deaths": 14606,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2083319,
+                "active_diff": -331806,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-03",
+        "data": {
+            "data": {
+                "date": "2022-06-03",
+                "last_update": "2022-06-04 04:20:58",
+                "confirmed": 2098595,
+                "confirmed_diff": 670,
+                "deaths": 14608,
+                "deaths_diff": 2,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2083987,
+                "active_diff": 668,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "data": {
+            "data": {
+                "date": "2022-06-04",
+                "last_update": "2022-06-05 04:20:55",
+                "confirmed": 2099041,
+                "confirmed_diff": 446,
+                "deaths": 14608,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2084433,
+                "active_diff": 446,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-05",
+        "data": {
+            "data": {
+                "date": "2022-06-05",
+                "last_update": "2022-06-06 04:20:57",
+                "confirmed": 2099865,
+                "confirmed_diff": 824,
+                "deaths": 15212,
+                "deaths_diff": 604,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2084653,
+                "active_diff": 220,
+                "fatality_rate": 0.0072
+            }
+        }
+    },
+    {
+        "date": "2022-06-06",
+        "data": {
+            "data": {
+                "date": "2022-06-06",
+                "last_update": "2022-06-07 04:21:08",
+                "confirmed": 2100607,
+                "confirmed_diff": 742,
+                "deaths": 14612,
+                "deaths_diff": -600,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2085995,
+                "active_diff": 1342,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-07",
+        "data": {
+            "data": {
+                "date": "2022-06-07",
+                "last_update": "2022-06-08 04:20:55",
+                "confirmed": 2101049,
+                "confirmed_diff": 442,
+                "deaths": 14615,
+                "deaths_diff": 3,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2086434,
+                "active_diff": 439,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-08",
+        "data": {
+            "data": {
+                "date": "2022-06-08",
+                "last_update": "2022-06-09 04:20:54",
+                "confirmed": 2101560,
+                "confirmed_diff": 511,
+                "deaths": 14615,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2086945,
+                "active_diff": 511,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-09",
+        "data": {
+            "data": {
+                "date": "2022-06-09",
+                "last_update": "2022-06-10 04:20:55",
+                "confirmed": 2102379,
+                "confirmed_diff": 819,
+                "deaths": 14616,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2087763,
+                "active_diff": 818,
+                "fatality_rate": 0.007
+            }
+        }
+    },
+    {
+        "date": "2022-06-10",
+        "data": {
+            "data": {
+                "date": "2022-06-10",
+                "last_update": "2022-06-11 04:21:01",
+                "confirmed": 2103227,
+                "confirmed_diff": 848,
+                "deaths": 14616,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2088611,
+                "active_diff": 848,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-11",
+        "data": {
+            "data": {
+                "date": "2022-06-11",
+                "last_update": "2022-06-12 04:20:53",
+                "confirmed": 2104341,
+                "confirmed_diff": 1114,
+                "deaths": 14616,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2089725,
+                "active_diff": 1114,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-12",
+        "data": {
+            "data": {
+                "date": "2022-06-12",
+                "last_update": "2022-06-13 04:21:14",
+                "confirmed": 2105331,
+                "confirmed_diff": 990,
+                "deaths": 14616,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2090715,
+                "active_diff": 990,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-13",
+        "data": {
+            "data": {
+                "date": "2022-06-13",
+                "last_update": "2022-06-14 04:20:52",
+                "confirmed": 2106288,
+                "confirmed_diff": 957,
+                "deaths": 14616,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2091672,
+                "active_diff": 957,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-14",
+        "data": {
+            "data": {
+                "date": "2022-06-14",
+                "last_update": "2022-06-15 04:20:54",
+                "confirmed": 2107342,
+                "confirmed_diff": 1054,
+                "deaths": 14617,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2092725,
+                "active_diff": 1053,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-15",
+        "data": {
+            "data": {
+                "date": "2022-06-15",
+                "last_update": "2022-06-16 04:20:55",
+                "confirmed": 2108598,
+                "confirmed_diff": 1256,
+                "deaths": 14618,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2093980,
+                "active_diff": 1255,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-16",
+        "data": {
+            "data": {
+                "date": "2022-06-16",
+                "last_update": "2022-06-17 04:20:56",
+                "confirmed": 2109935,
+                "confirmed_diff": 1337,
+                "deaths": 14618,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2095317,
+                "active_diff": 1337,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-17",
+        "data": {
+            "data": {
+                "date": "2022-06-17",
+                "last_update": "2022-06-18 04:21:10",
+                "confirmed": 2111214,
+                "confirmed_diff": 1279,
+                "deaths": 14619,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2096595,
+                "active_diff": 1278,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-18",
+        "data": {
+            "data": {
+                "date": "2022-06-18",
+                "last_update": "2022-06-19 04:20:51",
+                "confirmed": 2112692,
+                "confirmed_diff": 1478,
+                "deaths": 14619,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2098073,
+                "active_diff": 1478,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-19",
+        "data": {
+            "data": {
+                "date": "2022-06-19",
+                "last_update": "2022-06-20 04:21:01",
+                "confirmed": 2114127,
+                "confirmed_diff": 1435,
+                "deaths": 14621,
+                "deaths_diff": 2,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2099506,
+                "active_diff": 1433,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-20",
+        "data": {
+            "data": {
+                "date": "2022-06-20",
+                "last_update": "2022-06-21 04:20:56",
+                "confirmed": 2115561,
+                "confirmed_diff": 1434,
+                "deaths": 14622,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2100939,
+                "active_diff": 1433,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-21",
+        "data": {
+            "data": {
+                "date": "2022-06-21",
+                "last_update": "2022-06-22 04:20:54",
+                "confirmed": 2116897,
+                "confirmed_diff": 1336,
+                "deaths": 14622,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2102275,
+                "active_diff": 1336,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-22",
+        "data": {
+            "data": {
+                "date": "2022-06-22",
+                "last_update": "2022-06-23 04:20:55",
+                "confirmed": 2118491,
+                "confirmed_diff": 1594,
+                "deaths": 14623,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2103868,
+                "active_diff": 1593,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-23",
+        "data": {
+            "data": {
+                "date": "2022-06-23",
+                "last_update": "2022-06-24 04:20:58",
+                "confirmed": 2120269,
+                "confirmed_diff": 1778,
+                "deaths": 14624,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2105645,
+                "active_diff": 1777,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-24",
+        "data": {
+            "data": {
+                "date": "2022-06-24",
+                "last_update": "2022-06-25 04:20:57",
+                "confirmed": 2122283,
+                "confirmed_diff": 2014,
+                "deaths": 14624,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2107659,
+                "active_diff": 2014,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-25",
+        "data": {
+            "data": {
+                "date": "2022-06-25",
+                "last_update": "2022-06-26 04:21:02",
+                "confirmed": 2124209,
+                "confirmed_diff": 1926,
+                "deaths": 14624,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2109585,
+                "active_diff": 1926,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-26",
+        "data": {
+            "data": {
+                "date": "2022-06-26",
+                "last_update": "2022-06-27 04:21:00",
+                "confirmed": 2126233,
+                "confirmed_diff": 2024,
+                "deaths": 14624,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2111609,
+                "active_diff": 2024,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-27",
+        "data": {
+            "data": {
+                "date": "2022-06-27",
+                "last_update": "2022-06-28 04:20:58",
+                "confirmed": 2128225,
+                "confirmed_diff": 1992,
+                "deaths": 14624,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2113601,
+                "active_diff": 1992,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-28",
+        "data": {
+            "data": {
+                "date": "2022-06-28",
+                "last_update": "2022-06-29 04:20:59",
+                "confirmed": 2130033,
+                "confirmed_diff": 1808,
+                "deaths": 14625,
+                "deaths_diff": 1,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2115408,
+                "active_diff": 1807,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-29",
+        "data": {
+            "data": {
+                "date": "2022-06-29",
+                "last_update": "2022-06-30 04:21:01",
+                "confirmed": 2132190,
+                "confirmed_diff": 2157,
+                "deaths": 14625,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2117565,
+                "active_diff": 2157,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-30",
+        "data": {
+            "data": {
+                "date": "2022-06-30",
+                "last_update": "2022-07-01 04:21:10",
+                "confirmed": 2134718,
+                "confirmed_diff": 2528,
+                "deaths": 14627,
+                "deaths_diff": 2,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 2120091,
+                "active_diff": 2526,
+                "fatality_rate": 0.0069
+            }
+        }
+    },
+    {
+        "date": "2022-06-01",
+        "data": {
+            "data": {
+                "date": "2022-06-01",
+                "last_update": "2022-06-02 14:20:54",
+                "confirmed": 8861399,
+                "confirmed_diff": 22652,
+                "deaths": 30655,
+                "deaths_diff": 36,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8830744,
+                "active_diff": 22616,
+                "fatality_rate": 0.0035
+            }
+        }
+    },
+    {
+        "date": "2022-06-02",
+        "data": {
+            "data": {
+                "date": "2022-06-02",
+                "last_update": "2022-06-03 04:20:58",
+                "confirmed": 8881491,
+                "confirmed_diff": 20092,
+                "deaths": 30678,
+                "deaths_diff": 23,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8850813,
+                "active_diff": 20069,
+                "fatality_rate": 0.0035
+            }
+        }
+    },
+    {
+        "date": "2022-06-03",
+        "data": {
+            "data": {
+                "date": "2022-06-03",
+                "last_update": "2022-06-04 04:20:58",
+                "confirmed": 8900748,
+                "confirmed_diff": 19257,
+                "deaths": 30710,
+                "deaths_diff": 32,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8870038,
+                "active_diff": 19225,
+                "fatality_rate": 0.0035
+            }
+        }
+    },
+    {
+        "date": "2022-06-04",
+        "data": {
+            "data": {
+                "date": "2022-06-04",
+                "last_update": "2022-06-05 04:20:55",
+                "confirmed": 8918984,
+                "confirmed_diff": 18236,
+                "deaths": 30733,
+                "deaths_diff": 23,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8888251,
+                "active_diff": 18213,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-05",
+        "data": {
+            "data": {
+                "date": "2022-06-05",
+                "last_update": "2022-06-06 04:20:57",
+                "confirmed": 8934078,
+                "confirmed_diff": 15094,
+                "deaths": 30749,
+                "deaths_diff": 16,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8903329,
+                "active_diff": 15078,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-06",
+        "data": {
+            "data": {
+                "date": "2022-06-06",
+                "last_update": "2022-06-07 04:21:08",
+                "confirmed": 8943156,
+                "confirmed_diff": 9078,
+                "deaths": 30773,
+                "deaths_diff": 24,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8912383,
+                "active_diff": 9054,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-07",
+        "data": {
+            "data": {
+                "date": "2022-06-07",
+                "last_update": "2022-06-08 04:20:55",
+                "confirmed": 8960177,
+                "confirmed_diff": 17021,
+                "deaths": 30799,
+                "deaths_diff": 26,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8929378,
+                "active_diff": 16995,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-08",
+        "data": {
+            "data": {
+                "date": "2022-06-08",
+                "last_update": "2022-06-09 04:20:54",
+                "confirmed": 8978571,
+                "confirmed_diff": 18394,
+                "deaths": 30820,
+                "deaths_diff": 21,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8947751,
+                "active_diff": 18373,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-09",
+        "data": {
+            "data": {
+                "date": "2022-06-09",
+                "last_update": "2022-06-10 04:20:55",
+                "confirmed": 8995359,
+                "confirmed_diff": 16788,
+                "deaths": 30843,
+                "deaths_diff": 23,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8964516,
+                "active_diff": 16765,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-10",
+        "data": {
+            "data": {
+                "date": "2022-06-10",
+                "last_update": "2022-06-11 04:21:01",
+                "confirmed": 9010943,
+                "confirmed_diff": 15584,
+                "deaths": 30864,
+                "deaths_diff": 21,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8980079,
+                "active_diff": 15563,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-11",
+        "data": {
+            "data": {
+                "date": "2022-06-11",
+                "last_update": "2022-06-12 04:20:53",
+                "confirmed": 9026281,
+                "confirmed_diff": 15338,
+                "deaths": 30879,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 8995402,
+                "active_diff": 15323,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-12",
+        "data": {
+            "data": {
+                "date": "2022-06-12",
+                "last_update": "2022-06-13 04:21:14",
+                "confirmed": 9039662,
+                "confirmed_diff": 13381,
+                "deaths": 30888,
+                "deaths_diff": 9,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9008774,
+                "active_diff": 13372,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-13",
+        "data": {
+            "data": {
+                "date": "2022-06-13",
+                "last_update": "2022-06-14 04:20:52",
+                "confirmed": 9047604,
+                "confirmed_diff": 7942,
+                "deaths": 30909,
+                "deaths_diff": 21,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9016695,
+                "active_diff": 7921,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-14",
+        "data": {
+            "data": {
+                "date": "2022-06-14",
+                "last_update": "2022-06-15 04:20:54",
+                "confirmed": 9062918,
+                "confirmed_diff": 15314,
+                "deaths": 30938,
+                "deaths_diff": 29,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9031980,
+                "active_diff": 15285,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-15",
+        "data": {
+            "data": {
+                "date": "2022-06-15",
+                "last_update": "2022-06-16 04:20:55",
+                "confirmed": 9079462,
+                "confirmed_diff": 16544,
+                "deaths": 30961,
+                "deaths_diff": 23,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9048501,
+                "active_diff": 16521,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-16",
+        "data": {
+            "data": {
+                "date": "2022-06-16",
+                "last_update": "2022-06-17 04:20:56",
+                "confirmed": 9094948,
+                "confirmed_diff": 15486,
+                "deaths": 30981,
+                "deaths_diff": 20,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9063967,
+                "active_diff": 15466,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-17",
+        "data": {
+            "data": {
+                "date": "2022-06-17",
+                "last_update": "2022-06-18 04:21:10",
+                "confirmed": 9109632,
+                "confirmed_diff": 14684,
+                "deaths": 30999,
+                "deaths_diff": 18,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9078633,
+                "active_diff": 14666,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-18",
+        "data": {
+            "data": {
+                "date": "2022-06-18",
+                "last_update": "2022-06-19 04:20:51",
+                "confirmed": 9124454,
+                "confirmed_diff": 14822,
+                "deaths": 31019,
+                "deaths_diff": 20,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9093435,
+                "active_diff": 14802,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-19",
+        "data": {
+            "data": {
+                "date": "2022-06-19",
+                "last_update": "2022-06-20 04:21:01",
+                "confirmed": 9137595,
+                "confirmed_diff": 13141,
+                "deaths": 31029,
+                "deaths_diff": 10,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9106566,
+                "active_diff": 13131,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-20",
+        "data": {
+            "data": {
+                "date": "2022-06-20",
+                "last_update": "2022-06-21 04:20:56",
+                "confirmed": 9145373,
+                "confirmed_diff": 7778,
+                "deaths": 31042,
+                "deaths_diff": 13,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9114331,
+                "active_diff": 7765,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-21",
+        "data": {
+            "data": {
+                "date": "2022-06-21",
+                "last_update": "2022-06-22 04:20:54",
+                "confirmed": 9160740,
+                "confirmed_diff": 15367,
+                "deaths": 31059,
+                "deaths_diff": 17,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9129681,
+                "active_diff": 15350,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-22",
+        "data": {
+            "data": {
+                "date": "2022-06-22",
+                "last_update": "2022-06-23 04:20:55",
+                "confirmed": 9178003,
+                "confirmed_diff": 17263,
+                "deaths": 31074,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9146929,
+                "active_diff": 17248,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-23",
+        "data": {
+            "data": {
+                "date": "2022-06-23",
+                "last_update": "2022-06-24 04:20:58",
+                "confirmed": 9194660,
+                "confirmed_diff": 16657,
+                "deaths": 31089,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9163571,
+                "active_diff": 16642,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-24",
+        "data": {
+            "data": {
+                "date": "2022-06-24",
+                "last_update": "2022-06-25 04:20:57",
+                "confirmed": 9210607,
+                "confirmed_diff": 15947,
+                "deaths": 31104,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9179503,
+                "active_diff": 15932,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-25",
+        "data": {
+            "data": {
+                "date": "2022-06-25",
+                "last_update": "2022-06-26 04:21:02",
+                "confirmed": 9227180,
+                "confirmed_diff": 16573,
+                "deaths": 31113,
+                "deaths_diff": 9,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9196067,
+                "active_diff": 16564,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-26",
+        "data": {
+            "data": {
+                "date": "2022-06-26",
+                "last_update": "2022-06-27 04:21:00",
+                "confirmed": 9241386,
+                "confirmed_diff": 14206,
+                "deaths": 31125,
+                "deaths_diff": 12,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9210261,
+                "active_diff": 14194,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-27",
+        "data": {
+            "data": {
+                "date": "2022-06-27",
+                "last_update": "2022-06-28 04:20:58",
+                "confirmed": 9250940,
+                "confirmed_diff": 9554,
+                "deaths": 31138,
+                "deaths_diff": 13,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9219802,
+                "active_diff": 9541,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-28",
+        "data": {
+            "data": {
+                "date": "2022-06-28",
+                "last_update": "2022-06-29 04:20:59",
+                "confirmed": 9270305,
+                "confirmed_diff": 19365,
+                "deaths": 31246,
+                "deaths_diff": 108,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9239059,
+                "active_diff": 19257,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-29",
+        "data": {
+            "data": {
+                "date": "2022-06-29",
+                "last_update": "2022-06-30 04:21:01",
+                "confirmed": 9293629,
+                "confirmed_diff": 23324,
+                "deaths": 31263,
+                "deaths_diff": 17,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9262366,
+                "active_diff": 23307,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2022-06-30",
+        "data": {
+            "data": {
+                "date": "2022-06-30",
+                "last_update": "2022-07-01 04:21:10",
+                "confirmed": 9316954,
+                "confirmed_diff": 23325,
+                "deaths": 31277,
+                "deaths_diff": 14,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 9285677,
+                "active_diff": 23311,
+                "fatality_rate": 0.0034
+            }
+        }
+    },
+    {
+        "date": "2023-01-01",
+        "data": {
+            "data": {
+                "date": "2023-01-01",
+                "last_update": "2023-01-02 04:20:57",
+                "confirmed": 100752629,
+                "confirmed_diff": 2898,
+                "deaths": 1092674,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 99659955,
+                "active_diff": 2898,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-02",
+        "data": {
+            "data": {
+                "date": "2023-01-02",
+                "last_update": "2023-01-03 04:21:07",
+                "confirmed": 100759251,
+                "confirmed_diff": 6622,
+                "deaths": 1092679,
+                "deaths_diff": 5,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 99666572,
+                "active_diff": 6617,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-03",
+        "data": {
+            "data": {
+                "date": "2023-01-03",
+                "last_update": "2023-01-04 04:21:04",
+                "confirmed": 100845043,
+                "confirmed_diff": 85792,
+                "deaths": 1093971,
+                "deaths_diff": 1292,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 99751072,
+                "active_diff": 84500,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-04",
+        "data": {
+            "data": {
+                "date": "2023-01-04",
+                "last_update": "2023-01-05 04:21:04",
+                "confirmed": 101044032,
+                "confirmed_diff": 198989,
+                "deaths": 1095235,
+                "deaths_diff": 1264,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 99948797,
+                "active_diff": 197725,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-05",
+        "data": {
+            "data": {
+                "date": "2023-01-05",
+                "last_update": "2023-01-06 04:21:02",
+                "confirmed": 101172434,
+                "confirmed_diff": 128402,
+                "deaths": 1096145,
+                "deaths_diff": 910,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100076289,
+                "active_diff": 127492,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-06",
+        "data": {
+            "data": {
+                "date": "2023-01-06",
+                "last_update": "2023-01-07 04:21:00",
+                "confirmed": 101235080,
+                "confirmed_diff": 62646,
+                "deaths": 1096489,
+                "deaths_diff": 344,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100138591,
+                "active_diff": 62302,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "data": {
+            "data": {
+                "date": "2023-01-07",
+                "last_update": "2023-01-08 04:21:05",
+                "confirmed": 101239724,
+                "confirmed_diff": 4644,
+                "deaths": 1096503,
+                "deaths_diff": 14,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100143221,
+                "active_diff": 4630,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-08",
+        "data": {
+            "data": {
+                "date": "2023-01-08",
+                "last_update": "2023-01-09 04:20:52",
+                "confirmed": 101244321,
+                "confirmed_diff": 4597,
+                "deaths": 1096503,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100147818,
+                "active_diff": 4597,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-09",
+        "data": {
+            "data": {
+                "date": "2023-01-09",
+                "last_update": "2023-01-10 04:20:56",
+                "confirmed": 101285347,
+                "confirmed_diff": 41026,
+                "deaths": 1096751,
+                "deaths_diff": 248,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100188596,
+                "active_diff": 40778,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-10",
+        "data": {
+            "data": {
+                "date": "2023-01-10",
+                "last_update": "2023-01-11 04:21:01",
+                "confirmed": 101345042,
+                "confirmed_diff": 59695,
+                "deaths": 1097615,
+                "deaths_diff": 864,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100247427,
+                "active_diff": 58831,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-11",
+        "data": {
+            "data": {
+                "date": "2023-01-11",
+                "last_update": "2023-01-12 04:20:59",
+                "confirmed": 101511946,
+                "confirmed_diff": 166904,
+                "deaths": 1098512,
+                "deaths_diff": 897,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100413434,
+                "active_diff": 166007,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-12",
+        "data": {
+            "data": {
+                "date": "2023-01-12",
+                "last_update": "2023-01-13 04:20:58",
+                "confirmed": 101603695,
+                "confirmed_diff": 91749,
+                "deaths": 1099488,
+                "deaths_diff": 976,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100504207,
+                "active_diff": 90773,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-13",
+        "data": {
+            "data": {
+                "date": "2023-01-13",
+                "last_update": "2023-01-14 04:20:58",
+                "confirmed": 101641427,
+                "confirmed_diff": 37732,
+                "deaths": 1099823,
+                "deaths_diff": 335,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100541604,
+                "active_diff": 37397,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-14",
+        "data": {
+            "data": {
+                "date": "2023-01-14",
+                "last_update": "2023-01-15 04:20:53",
+                "confirmed": 101646108,
+                "confirmed_diff": 4681,
+                "deaths": 1099860,
+                "deaths_diff": 37,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100546248,
+                "active_diff": 4644,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-15",
+        "data": {
+            "data": {
+                "date": "2023-01-15",
+                "last_update": "2023-01-16 04:21:05",
+                "confirmed": 101648826,
+                "confirmed_diff": 2718,
+                "deaths": 1099860,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100548966,
+                "active_diff": 2718,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-16",
+        "data": {
+            "data": {
+                "date": "2023-01-16",
+                "last_update": "2023-01-17 04:21:07",
+                "confirmed": 101654571,
+                "confirmed_diff": 5745,
+                "deaths": 1099885,
+                "deaths_diff": 25,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100554686,
+                "active_diff": 5720,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-17",
+        "data": {
+            "data": {
+                "date": "2023-01-17",
+                "last_update": "2023-01-18 04:21:05",
+                "confirmed": 101722206,
+                "confirmed_diff": 67635,
+                "deaths": 1100580,
+                "deaths_diff": 695,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100621626,
+                "active_diff": 66940,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-18",
+        "data": {
+            "data": {
+                "date": "2023-01-18",
+                "last_update": "2023-01-19 04:20:58",
+                "confirmed": 101858338,
+                "confirmed_diff": 136132,
+                "deaths": 1102286,
+                "deaths_diff": 1706,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100756052,
+                "active_diff": 134426,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-19",
+        "data": {
+            "data": {
+                "date": "2023-01-19",
+                "last_update": "2023-01-20 04:20:55",
+                "confirmed": 101958808,
+                "confirmed_diff": 100470,
+                "deaths": 1103681,
+                "deaths_diff": 1395,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100855127,
+                "active_diff": 99075,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-20",
+        "data": {
+            "data": {
+                "date": "2023-01-20",
+                "last_update": "2023-01-21 04:20:55",
+                "confirmed": 101998621,
+                "confirmed_diff": 39813,
+                "deaths": 1104103,
+                "deaths_diff": 422,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100894518,
+                "active_diff": 39391,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-21",
+        "data": {
+            "data": {
+                "date": "2023-01-21",
+                "last_update": "2023-01-22 04:20:59",
+                "confirmed": 102003090,
+                "confirmed_diff": 4469,
+                "deaths": 1104118,
+                "deaths_diff": 15,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100898972,
+                "active_diff": 4454,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-22",
+        "data": {
+            "data": {
+                "date": "2023-01-22",
+                "last_update": "2023-01-23 04:21:05",
+                "confirmed": 102005805,
+                "confirmed_diff": 2715,
+                "deaths": 1104118,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100901687,
+                "active_diff": 2715,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-23",
+        "data": {
+            "data": {
+                "date": "2023-01-23",
+                "last_update": "2023-01-24 04:21:01",
+                "confirmed": 102034754,
+                "confirmed_diff": 28949,
+                "deaths": 1104390,
+                "deaths_diff": 272,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100930364,
+                "active_diff": 28677,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-24",
+        "data": {
+            "data": {
+                "date": "2023-01-24",
+                "last_update": "2023-01-25 04:20:57",
+                "confirmed": 102078090,
+                "confirmed_diff": 43336,
+                "deaths": 1105176,
+                "deaths_diff": 786,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 100972914,
+                "active_diff": 42550,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-25",
+        "data": {
+            "data": {
+                "date": "2023-01-25",
+                "last_update": "2023-01-26 04:20:59",
+                "confirmed": 102181853,
+                "confirmed_diff": 103763,
+                "deaths": 1106524,
+                "deaths_diff": 1348,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101075329,
+                "active_diff": 102415,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-26",
+        "data": {
+            "data": {
+                "date": "2023-01-26",
+                "last_update": "2023-01-27 04:20:58",
+                "confirmed": 102259155,
+                "confirmed_diff": 77302,
+                "deaths": 1107542,
+                "deaths_diff": 1018,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101151613,
+                "active_diff": 76284,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-27",
+        "data": {
+            "data": {
+                "date": "2023-01-27",
+                "last_update": "2023-01-28 04:21:00",
+                "confirmed": 102277103,
+                "confirmed_diff": 17948,
+                "deaths": 1107634,
+                "deaths_diff": 92,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101169469,
+                "active_diff": 17856,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-28",
+        "data": {
+            "data": {
+                "date": "2023-01-28",
+                "last_update": "2023-01-29 04:21:02",
+                "confirmed": 102280952,
+                "confirmed_diff": 3849,
+                "deaths": 1107645,
+                "deaths_diff": 11,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101173307,
+                "active_diff": 3838,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-29",
+        "data": {
+            "data": {
+                "date": "2023-01-29",
+                "last_update": "2023-01-30 04:20:59",
+                "confirmed": 102283559,
+                "confirmed_diff": 2607,
+                "deaths": 1107645,
+                "deaths_diff": 0,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101175914,
+                "active_diff": 2607,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-30",
+        "data": {
+            "data": {
+                "date": "2023-01-30",
+                "last_update": "2023-01-31 04:20:32",
+                "confirmed": 102310636,
+                "confirmed_diff": 27077,
+                "deaths": 1107855,
+                "deaths_diff": 210,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 101202781,
+                "active_diff": 26867,
+                "fatality_rate": 0.0108
+            }
+        }
+    },
+    {
+        "date": "2023-01-01",
+        "data": {
+            "data": {
+                "date": "2023-01-01",
+                "last_update": "2023-01-02 04:20:57",
+                "confirmed": 4560468,
+                "confirmed_diff": 23361,
+                "deaths": 17124,
+                "deaths_diff": 62,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4543344,
+                "active_diff": 23299,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-02",
+        "data": {
+            "data": {
+                "date": "2023-01-02",
+                "last_update": "2023-01-03 04:21:07",
+                "confirmed": 4580698,
+                "confirmed_diff": 20230,
+                "deaths": 17198,
+                "deaths_diff": 74,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4563500,
+                "active_diff": 20156,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-03",
+        "data": {
+            "data": {
+                "date": "2023-01-03",
+                "last_update": "2023-01-04 04:21:04",
+                "confirmed": 4596884,
+                "confirmed_diff": 16186,
+                "deaths": 17273,
+                "deaths_diff": 75,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4579611,
+                "active_diff": 16111,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-04",
+        "data": {
+            "data": {
+                "date": "2023-01-04",
+                "last_update": "2023-01-05 04:21:04",
+                "confirmed": 4613307,
+                "confirmed_diff": 16423,
+                "deaths": 17336,
+                "deaths_diff": 63,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4595971,
+                "active_diff": 16360,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-05",
+        "data": {
+            "data": {
+                "date": "2023-01-05",
+                "last_update": "2023-01-06 04:21:02",
+                "confirmed": 4631729,
+                "confirmed_diff": 18422,
+                "deaths": 17404,
+                "deaths_diff": 68,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4614325,
+                "active_diff": 18354,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-06",
+        "data": {
+            "data": {
+                "date": "2023-01-06",
+                "last_update": "2023-01-07 04:21:00",
+                "confirmed": 4651451,
+                "confirmed_diff": 19722,
+                "deaths": 17459,
+                "deaths_diff": 55,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4633992,
+                "active_diff": 19667,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "data": {
+            "data": {
+                "date": "2023-01-07",
+                "last_update": "2023-01-08 04:21:05",
+                "confirmed": 4667301,
+                "confirmed_diff": 15850,
+                "deaths": 17531,
+                "deaths_diff": 72,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4649770,
+                "active_diff": 15778,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-08",
+        "data": {
+            "data": {
+                "date": "2023-01-08",
+                "last_update": "2023-01-09 04:20:52",
+                "confirmed": 4681414,
+                "confirmed_diff": 14113,
+                "deaths": 17597,
+                "deaths_diff": 66,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4663817,
+                "active_diff": 14047,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-09",
+        "data": {
+            "data": {
+                "date": "2023-01-09",
+                "last_update": "2023-01-10 04:20:56",
+                "confirmed": 4693055,
+                "confirmed_diff": 11641,
+                "deaths": 17661,
+                "deaths_diff": 64,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4675394,
+                "active_diff": 11577,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-10",
+        "data": {
+            "data": {
+                "date": "2023-01-10",
+                "last_update": "2023-01-11 04:21:01",
+                "confirmed": 4818146,
+                "confirmed_diff": 125091,
+                "deaths": 17837,
+                "deaths_diff": 176,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4800309,
+                "active_diff": 124915,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-11",
+        "data": {
+            "data": {
+                "date": "2023-01-11",
+                "last_update": "2023-01-12 04:20:59",
+                "confirmed": 4827425,
+                "confirmed_diff": 9279,
+                "deaths": 17904,
+                "deaths_diff": 67,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4809521,
+                "active_diff": 9212,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-12",
+        "data": {
+            "data": {
+                "date": "2023-01-12",
+                "last_update": "2023-01-13 04:20:58",
+                "confirmed": 4836633,
+                "confirmed_diff": 9208,
+                "deaths": 17978,
+                "deaths_diff": 74,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4818655,
+                "active_diff": 9134,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-13",
+        "data": {
+            "data": {
+                "date": "2023-01-13",
+                "last_update": "2023-01-14 04:20:58",
+                "confirmed": 4845027,
+                "confirmed_diff": 8394,
+                "deaths": 18072,
+                "deaths_diff": 94,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4826955,
+                "active_diff": 8300,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-14",
+        "data": {
+            "data": {
+                "date": "2023-01-14",
+                "last_update": "2023-01-15 04:20:53",
+                "confirmed": 4852776,
+                "confirmed_diff": 7749,
+                "deaths": 18126,
+                "deaths_diff": 54,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4834650,
+                "active_diff": 7695,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-15",
+        "data": {
+            "data": {
+                "date": "2023-01-15",
+                "last_update": "2023-01-16 04:21:05",
+                "confirmed": 4859037,
+                "confirmed_diff": 6261,
+                "deaths": 18192,
+                "deaths_diff": 66,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4840845,
+                "active_diff": 6195,
+                "fatality_rate": 0.0037
+            }
+        }
+    },
+    {
+        "date": "2023-01-16",
+        "data": {
+            "data": {
+                "date": "2023-01-16",
+                "last_update": "2023-01-17 04:21:07",
+                "confirmed": 4863690,
+                "confirmed_diff": 4653,
+                "deaths": 18242,
+                "deaths_diff": 50,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4845448,
+                "active_diff": 4603,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-17",
+        "data": {
+            "data": {
+                "date": "2023-01-17",
+                "last_update": "2023-01-18 04:21:05",
+                "confirmed": 4867556,
+                "confirmed_diff": 3866,
+                "deaths": 18295,
+                "deaths_diff": 53,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4849261,
+                "active_diff": 3813,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-18",
+        "data": {
+            "data": {
+                "date": "2023-01-18",
+                "last_update": "2023-01-19 04:20:58",
+                "confirmed": 4871355,
+                "confirmed_diff": 3799,
+                "deaths": 18352,
+                "deaths_diff": 57,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4853003,
+                "active_diff": 3742,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-19",
+        "data": {
+            "data": {
+                "date": "2023-01-19",
+                "last_update": "2023-01-20 04:20:55",
+                "confirmed": 4875374,
+                "confirmed_diff": 4019,
+                "deaths": 18399,
+                "deaths_diff": 47,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4856975,
+                "active_diff": 3972,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-20",
+        "data": {
+            "data": {
+                "date": "2023-01-20",
+                "last_update": "2023-01-21 04:20:55",
+                "confirmed": 4879169,
+                "confirmed_diff": 3795,
+                "deaths": 18441,
+                "deaths_diff": 42,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4860728,
+                "active_diff": 3753,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-21",
+        "data": {
+            "data": {
+                "date": "2023-01-21",
+                "last_update": "2023-01-22 04:20:59",
+                "confirmed": 4882683,
+                "confirmed_diff": 3514,
+                "deaths": 18470,
+                "deaths_diff": 29,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4864213,
+                "active_diff": 3485,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-22",
+        "data": {
+            "data": {
+                "date": "2023-01-22",
+                "last_update": "2023-01-23 04:21:05",
+                "confirmed": 4885426,
+                "confirmed_diff": 2743,
+                "deaths": 18508,
+                "deaths_diff": 38,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4866918,
+                "active_diff": 2705,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-23",
+        "data": {
+            "data": {
+                "date": "2023-01-23",
+                "last_update": "2023-01-24 04:21:01",
+                "confirmed": 4887702,
+                "confirmed_diff": 2276,
+                "deaths": 18558,
+                "deaths_diff": 50,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4869144,
+                "active_diff": 2226,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-24",
+        "data": {
+            "data": {
+                "date": "2023-01-24",
+                "last_update": "2023-01-25 04:20:57",
+                "confirmed": 4889691,
+                "confirmed_diff": 1989,
+                "deaths": 18594,
+                "deaths_diff": 36,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4871097,
+                "active_diff": 1953,
+                "fatality_rate": 0.0038
+            }
+        }
+    },
+    {
+        "date": "2023-01-25",
+        "data": {
+            "data": {
+                "date": "2023-01-25",
+                "last_update": "2023-01-26 04:20:59",
+                "confirmed": 4891987,
+                "confirmed_diff": 2296,
+                "deaths": 72553,
+                "deaths_diff": 53959,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4819434,
+                "active_diff": -51663,
+                "fatality_rate": 0.0148
+            }
+        }
+    },
+    {
+        "date": "2023-01-26",
+        "data": {
+            "data": {
+                "date": "2023-01-26",
+                "last_update": "2023-01-27 04:20:58",
+                "confirmed": 4894391,
+                "confirmed_diff": 2404,
+                "deaths": 91204,
+                "deaths_diff": 18651,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4803187,
+                "active_diff": -16247,
+                "fatality_rate": 0.0186
+            }
+        }
+    },
+    {
+        "date": "2023-01-27",
+        "data": {
+            "data": {
+                "date": "2023-01-27",
+                "last_update": "2023-01-28 04:21:00",
+                "confirmed": 4896727,
+                "confirmed_diff": 2336,
+                "deaths": 91226,
+                "deaths_diff": 22,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4805501,
+                "active_diff": 2314,
+                "fatality_rate": 0.0186
+            }
+        }
+    },
+    {
+        "date": "2023-01-28",
+        "data": {
+            "data": {
+                "date": "2023-01-28",
+                "last_update": "2023-01-29 04:21:02",
+                "confirmed": 4900210,
+                "confirmed_diff": 3483,
+                "deaths": 91259,
+                "deaths_diff": 33,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4808951,
+                "active_diff": 3450,
+                "fatality_rate": 0.0186
+            }
+        }
+    },
+    {
+        "date": "2023-01-29",
+        "data": {
+            "data": {
+                "date": "2023-01-29",
+                "last_update": "2023-01-30 04:20:59",
+                "confirmed": 4903495,
+                "confirmed_diff": 3285,
+                "deaths": 91279,
+                "deaths_diff": 20,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4812216,
+                "active_diff": 3265,
+                "fatality_rate": 0.0186
+            }
+        }
+    },
+    {
+        "date": "2023-01-30",
+        "data": {
+            "data": {
+                "date": "2023-01-30",
+                "last_update": "2023-01-31 04:20:32",
+                "confirmed": 4903496,
+                "confirmed_diff": 1,
+                "deaths": 97643,
+                "deaths_diff": 6364,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 4805853,
+                "active_diff": -6363,
+                "fatality_rate": 0.0199
+            }
+        }
+    },
+    {
+        "date": "2023-01-01",
+        "data": {
+            "data": {
+                "date": "2023-01-01",
+                "last_update": "2023-01-02 04:20:57",
+                "confirmed": 29321601,
+                "confirmed_diff": 86924,
+                "deaths": 57521,
+                "deaths_diff": 247,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 29264080,
+                "active_diff": 86677,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-02",
+        "data": {
+            "data": {
+                "date": "2023-01-02",
+                "last_update": "2023-01-03 04:21:07",
+                "confirmed": 29397865,
+                "confirmed_diff": 76264,
+                "deaths": 57729,
+                "deaths_diff": 208,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 29340136,
+                "active_diff": 76056,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-03",
+        "data": {
+            "data": {
+                "date": "2023-01-03",
+                "last_update": "2023-01-04 04:21:04",
+                "confirmed": 29489769,
+                "confirmed_diff": 91904,
+                "deaths": 57952,
+                "deaths_diff": 223,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 29431817,
+                "active_diff": 91681,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-04",
+        "data": {
+            "data": {
+                "date": "2023-01-04",
+                "last_update": "2023-01-05 04:21:04",
+                "confirmed": 29594073,
+                "confirmed_diff": 104304,
+                "deaths": 58170,
+                "deaths_diff": 218,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 29535903,
+                "active_diff": 104086,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-05",
+        "data": {
+            "data": {
+                "date": "2023-01-05",
+                "last_update": "2023-01-06 04:21:02",
+                "confirmed": 29820977,
+                "confirmed_diff": 226904,
+                "deaths": 58504,
+                "deaths_diff": 334,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 29762473,
+                "active_diff": 226570,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-06",
+        "data": {
+            "data": {
+                "date": "2023-01-06",
+                "last_update": "2023-01-07 04:21:00",
+                "confirmed": 30066519,
+                "confirmed_diff": 245542,
+                "deaths": 58960,
+                "deaths_diff": 456,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30007559,
+                "active_diff": 245086,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-07",
+        "data": {
+            "data": {
+                "date": "2023-01-07",
+                "last_update": "2023-01-08 04:21:05",
+                "confirmed": 30305173,
+                "confirmed_diff": 238654,
+                "deaths": 59423,
+                "deaths_diff": 463,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30245750,
+                "active_diff": 238191,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-08",
+        "data": {
+            "data": {
+                "date": "2023-01-08",
+                "last_update": "2023-01-09 04:20:52",
+                "confirmed": 30495711,
+                "confirmed_diff": 190538,
+                "deaths": 59830,
+                "deaths_diff": 407,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30435881,
+                "active_diff": 190131,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-09",
+        "data": {
+            "data": {
+                "date": "2023-01-09",
+                "last_update": "2023-01-10 04:20:56",
+                "confirmed": 30591019,
+                "confirmed_diff": 95308,
+                "deaths": 60166,
+                "deaths_diff": 336,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30530853,
+                "active_diff": 94972,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-10",
+        "data": {
+            "data": {
+                "date": "2023-01-10",
+                "last_update": "2023-01-11 04:21:01",
+                "confirmed": 30670001,
+                "confirmed_diff": 78982,
+                "deaths": 60419,
+                "deaths_diff": 253,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30609582,
+                "active_diff": 78729,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-11",
+        "data": {
+            "data": {
+                "date": "2023-01-11",
+                "last_update": "2023-01-12 04:20:59",
+                "confirmed": 30868874,
+                "confirmed_diff": 198873,
+                "deaths": 60800,
+                "deaths_diff": 381,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30808074,
+                "active_diff": 198492,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-12",
+        "data": {
+            "data": {
+                "date": "2023-01-12",
+                "last_update": "2023-01-13 04:20:58",
+                "confirmed": 31054346,
+                "confirmed_diff": 185472,
+                "deaths": 61289,
+                "deaths_diff": 489,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 30993057,
+                "active_diff": 184983,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-13",
+        "data": {
+            "data": {
+                "date": "2023-01-13",
+                "last_update": "2023-01-14 04:20:58",
+                "confirmed": 31198423,
+                "confirmed_diff": 144077,
+                "deaths": 61769,
+                "deaths_diff": 480,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31136654,
+                "active_diff": 143597,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-14",
+        "data": {
+            "data": {
+                "date": "2023-01-14",
+                "last_update": "2023-01-15 04:20:53",
+                "confirmed": 31330494,
+                "confirmed_diff": 132071,
+                "deaths": 62272,
+                "deaths_diff": 503,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31268222,
+                "active_diff": 131568,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-15",
+        "data": {
+            "data": {
+                "date": "2023-01-15",
+                "last_update": "2023-01-16 04:21:05",
+                "confirmed": 31438775,
+                "confirmed_diff": 108281,
+                "deaths": 62687,
+                "deaths_diff": 415,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31376088,
+                "active_diff": 107866,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-16",
+        "data": {
+            "data": {
+                "date": "2023-01-16",
+                "last_update": "2023-01-17 04:21:07",
+                "confirmed": 31493153,
+                "confirmed_diff": 54378,
+                "deaths": 62971,
+                "deaths_diff": 284,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31430182,
+                "active_diff": 54094,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-17",
+        "data": {
+            "data": {
+                "date": "2023-01-17",
+                "last_update": "2023-01-18 04:21:05",
+                "confirmed": 31619952,
+                "confirmed_diff": 126799,
+                "deaths": 63328,
+                "deaths_diff": 357,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31556624,
+                "active_diff": 126442,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-18",
+        "data": {
+            "data": {
+                "date": "2023-01-18",
+                "last_update": "2023-01-19 04:20:58",
+                "confirmed": 31745060,
+                "confirmed_diff": 125108,
+                "deaths": 63777,
+                "deaths_diff": 449,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31681283,
+                "active_diff": 124659,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-19",
+        "data": {
+            "data": {
+                "date": "2023-01-19",
+                "last_update": "2023-01-20 04:20:55",
+                "confirmed": 31841452,
+                "confirmed_diff": 96392,
+                "deaths": 64228,
+                "deaths_diff": 451,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31777224,
+                "active_diff": 95941,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-20",
+        "data": {
+            "data": {
+                "date": "2023-01-20",
+                "last_update": "2023-01-21 04:20:55",
+                "confirmed": 31924066,
+                "confirmed_diff": 82614,
+                "deaths": 64653,
+                "deaths_diff": 425,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31859413,
+                "active_diff": 82189,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-21",
+        "data": {
+            "data": {
+                "date": "2023-01-21",
+                "last_update": "2023-01-22 04:20:59",
+                "confirmed": 32003020,
+                "confirmed_diff": 78954,
+                "deaths": 65051,
+                "deaths_diff": 398,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 31937969,
+                "active_diff": 78556,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-22",
+        "data": {
+            "data": {
+                "date": "2023-01-22",
+                "last_update": "2023-01-23 04:21:05",
+                "confirmed": 32067470,
+                "confirmed_diff": 64450,
+                "deaths": 65377,
+                "deaths_diff": 326,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32002093,
+                "active_diff": 64124,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-23",
+        "data": {
+            "data": {
+                "date": "2023-01-23",
+                "last_update": "2023-01-24 04:21:01",
+                "confirmed": 32100041,
+                "confirmed_diff": 32571,
+                "deaths": 65630,
+                "deaths_diff": 253,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32034411,
+                "active_diff": 32318,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-24",
+        "data": {
+            "data": {
+                "date": "2023-01-24",
+                "last_update": "2023-01-25 04:20:57",
+                "confirmed": 32193842,
+                "confirmed_diff": 93801,
+                "deaths": 65937,
+                "deaths_diff": 307,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32127905,
+                "active_diff": 93494,
+                "fatality_rate": 0.002
+            }
+        }
+    },
+    {
+        "date": "2023-01-25",
+        "data": {
+            "data": {
+                "date": "2023-01-25",
+                "last_update": "2023-01-26 04:20:59",
+                "confirmed": 32273196,
+                "confirmed_diff": 79354,
+                "deaths": 66305,
+                "deaths_diff": 368,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32206891,
+                "active_diff": 78986,
+                "fatality_rate": 0.0021
+            }
+        }
+    },
+    {
+        "date": "2023-01-26",
+        "data": {
+            "data": {
+                "date": "2023-01-26",
+                "last_update": "2023-01-27 04:20:58",
+                "confirmed": 32333081,
+                "confirmed_diff": 59885,
+                "deaths": 66715,
+                "deaths_diff": 410,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32266366,
+                "active_diff": 59475,
+                "fatality_rate": 0.0021
+            }
+        }
+    },
+    {
+        "date": "2023-01-27",
+        "data": {
+            "data": {
+                "date": "2023-01-27",
+                "last_update": "2023-01-28 04:21:00",
+                "confirmed": 32386992,
+                "confirmed_diff": 53911,
+                "deaths": 67058,
+                "deaths_diff": 343,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32319934,
+                "active_diff": 53568,
+                "fatality_rate": 0.0021
+            }
+        }
+    },
+    {
+        "date": "2023-01-28",
+        "data": {
+            "data": {
+                "date": "2023-01-28",
+                "last_update": "2023-01-29 04:21:02",
+                "confirmed": 32441774,
+                "confirmed_diff": 54782,
+                "deaths": 67396,
+                "deaths_diff": 338,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32374378,
+                "active_diff": 54444,
+                "fatality_rate": 0.0021
+            }
+        }
+    },
+    {
+        "date": "2023-01-29",
+        "data": {
+            "data": {
+                "date": "2023-01-29",
+                "last_update": "2023-01-30 04:20:59",
+                "confirmed": 32486503,
+                "confirmed_diff": 44729,
+                "deaths": 67647,
+                "deaths_diff": 251,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32418856,
+                "active_diff": 44478,
+                "fatality_rate": 0.0021
+            }
+        }
+    },
+    {
+        "date": "2023-01-30",
+        "data": {
+            "data": {
+                "date": "2023-01-30",
+                "last_update": "2023-01-31 04:20:32",
+                "confirmed": 32507929,
+                "confirmed_diff": 21426,
+                "deaths": 67853,
+                "deaths_diff": 206,
+                "recovered": 0,
+                "recovered_diff": 0,
+                "active": 32440076,
+                "active_diff": 21220,
+                "fatality_rate": 0.0021
+            }
+        }
+    }
+]
